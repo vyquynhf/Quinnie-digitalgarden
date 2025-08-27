@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/than-kinh/he-than-kinh-tu-chu/","noteIcon":"","created":"2025-08-27T15:37:18.329+07:00","updated":"2025-08-27T22:04:23.985+07:00"}
+{"dg-publish":true,"permalink":"/than-kinh/he-than-kinh-tu-chu/","noteIcon":"","created":"2025-08-27T15:37:18.329+07:00","updated":"2025-08-27T22:49:25.552+07:00"}
 ---
 
 
@@ -13,22 +13,22 @@
 | Trung tâm điều khiển | **Vùng hạ đồi và thân não**                                                                                                                                                   |
 | Thành phần           | Các sợi tiền hạch (có bao myelin) ra khỏi TKTW để tiếp nói với neuron ở hạch giao cảm.<br>Các sợi hậu hạch (không có bao myelin) thoát ra từ hạch giao cảm sẽ đi đến mô đích. |
 | Phân loại            | - Hệ TK giao cảm<br>- Hệ TK phó giao cảm                                                                                                                                      |
-# HỆ THẦN KINH GIAO CẢM
-## Neuron tiền hạch
+# 1 HỆ THẦN KINH GIAO CẢM
+## 1.1 Neuron tiền hạch
 - Neuron tiền hạch giao cảm xuất phát từ **sừng bên** của tủy sống từ **T1-L2** *(vì vậy người ta còn gọi giao cảm là thoracolumbar outflow)*
 - Trong tủy sống, sự phân bố của các neuron giao cảm tiền hạch ở đoạn ngực - thắt lưng thể hiện sự sắp xếp không gian theo trục đầu - đuôi *(các neuron chi phối cho mắt nằm ở vị trí cao nhất (T1–T2))*
 - Từ đây, các sợi tiền hạch đi ra ở rễ bụng → hạch giao cảm cạnh sống.
-## Hạch cạnh sống và chuỗi hạch giao cảm
+## 1.2 Hạch cạnh sống và chuỗi hạch giao cảm
 - Có 2 chuỗi hạch giao cảm
 	- Chuỗi hạch cạnh sống: nằm ở hai bên cột sống (25 cặp)
 	- Chuỗi hạch trước cột sống
-### Hạch cạnh sống
+### 1.2.1 Hạch cạnh sống
 - Tỉ lệ tiếp hợp của neuron tiền hạch : neuron hậu hạch là 1:30. Nhờ vậy, **một tín hiệu từ hệ thần kinh trung ương có thể khuếch đại và lan tỏa**, kích hoạt đồng thời nhiều neuron sau hạch.
 - **Cửa vào:** Neuron tiền hạch đi vào chuỗi hạch giao cảm cạnh sống thông qua <font color="#ffc000">nhánh thông trắng</font> *(white rami, trắng vì có bao myelin)*, một số neuron tiền hạch không tiếp hợp ở chuỗi này thì sẽ tiếp hợp với neuron hậu hạch ở chuỗi hạch trước sống → theo <font color="#ffc000">dây TK tạng</font> đến chi phối cho các cơ quan. 
 - **Sự quay trở lại dây TK tủy**: một số sợi hậu hạch đi ra chuỗi giao cảm thông qua nhánh thông xám *(gray rami, xám vì không có bao myelin)* sau đó quay trở lại dây thần kinh tủy sống tương ứng; rồi chi phối thần kinh cho các <font color="#ffc000">mạch máu, tuyến mồ hôi và nang lông</font>.
 - <font color="#ffc000">Nhánh xám có mặt ở tất cả các mức của chuỗi hạch giao cảm</font>, trong khi nhánh trắng chỉ có ở đoạn T1-L2
 ![HỆ THẦN KINH TỰ CHỦ-1756287013584.jpeg](/img/user/image/H%E1%BB%86%20TH%E1%BA%A6N%20KINH%20T%E1%BB%B0%20CH%E1%BB%A6-1756287013584.jpeg)
-### Hạch trước sống
+### 1.2.2 Hạch trước sống
 Neuron hậu hạch chi phối các <font color="#ffc000">cơ quan ở bụng</font> thì nằm ở hạch trước sống. 
 - Neuron tiền hạch ở sừng bên T5-T9 trên đường đi sẽ hình thành greatest splanchnic nerve
 - T10-T12: hình thành Lesser và least splanchnic nerve
@@ -37,9 +37,9 @@ Neuron hậu hạch chi phối các <font color="#ffc000">cơ quan ở bụng</f
 - Một số sợi thần kinh giao cảm trước hạch trong các dây thần kinh tạng lớn (greater), nhỏ (lesser), và bé nhất (least splanchnic nerves) đi xuyên qua hạch tạng (celiac ganglion) mà không tạo synap, và chúng sẽ tạo synap trực tiếp với các tế bào trong **tủy thượng thận** (adrenal medulla), nơi tiết ra epinephrine và norepinephrine.
 ![HỆ THẦN KINH TỰ CHỦ-1756288575338.jpeg](/img/user/image/H%E1%BB%86%20TH%E1%BA%A6N%20KINH%20T%E1%BB%B0%20CH%E1%BB%A6-1756288575338.jpeg)
 - Các sợi tiền hạch từ L1-L2 hình thành dây TK tạng lưng và synapse với neuron hậu hạch nằm ở hạch mạc treo dưới. Các sợi sau hạch từ hạch này sau đó đi qua đám rối hạ vị (hypogastric plexus) để chi phối đại tràng ngang và xuống, trực tràng, bàng quang, và các cơ quan sinh dục nam nữ.
-## Thụ thể
+## 1.3 Thụ thể
 Thụ thể hệ giao cảm gồm 2 loại α và β
-### Thụ thể α
+### 1.3.1 Thụ thể α
 
 |               | α1                                                                               | α2                                                             |
 | ------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -48,7 +48,7 @@ Thụ thể hệ giao cảm gồm 2 loại α và β
 | Chất đối vận  | prazosin                                                                         | yohimbine                                                      |
 | Vai trò       | co thắt cơ trơn mạch máu, cơ trơn niệu dục, tãng glycogen ở gan và tân tạo đường | tế bào β tụy giảm tiết insulin, ngưng tập tiểu cầu, co cơ trơn |
 
-### Thụ thể β
+### 1.3.2 Thụ thể β
 
 |               | β1                                                            | β2                                                                | β3                                         |
 | ------------- | ------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------ |
@@ -61,9 +61,9 @@ Thụ thể hệ giao cảm gồm 2 loại α và β
 α2
 β1 → one heart
 β2 → two lungs
-# hệ thần kinh đối giao cảm
+# 2 HỆ TK ĐỐI GIAO CẢM
 Các sợi tiền hạch xuất phát từ <font color="#ffc000">nhân đối giao cảm</font> của 4 đôi dây thần kinh sọ - <font color="#ffc000">dây vận nhãn (III), dây thần kinh mặt (VII), thiệt hầu (IX) và lang thang (X) - và đoạn cùng của cột sống</font>
-## Hệ đối giao cảm ở dây TK sọ
+## 2.1 Hệ đối giao cảm ở dây TK sọ
 
 |     | Tiếp giáp                                  | Sợi hậu hạch chi phối                                                                          |
 | --- | ------------------------------------------ | ---------------------------------------------------------------------------------------------- |
@@ -72,13 +72,13 @@ Các sợi tiền hạch xuất phát từ <font color="#ffc000">nhân đối gi
 | IX  | hạch tai                                   | tuyến mang tai                                                                                 |
 | X   |                                            | tim, phổi, đoạn dưới thực quản, dạ dày, tụy, bàng quang, ruột non, đoạn lên và ngang đại tràng |
 
-## Hệ đối giao cảm cùng
+## 2.2 Hệ đối giao cảm cùng
 - Xuất phát từ sừng bên tủy cùng S2,3,4 đi xuống ở chùm đuôi ngựa → phân chia thành **thần kinh tạng chậu**. 
 	- Một vài sợi tiếp giáp <font color="#ffc000">hạch ở đại tràng xa và trực tràng</font>
 	- Còn lại tiếp giáp <font color="#ffc000">hạch chậu</font> → chi phối bàng quang, thể hang (dương vật/âm vật)
-## Thụ thể đối giao cảm
+## 2.3 Thụ thể đối giao cảm
 Gồm thụ thể nicotinic và muscarinic
-### Thụ thể N
+### 2.3.1 Thụ thể N
 
 |               | N1                                               | N2                                                      |
 | ------------- | ------------------------------------------------ | ------------------------------------------------------- |
@@ -86,7 +86,7 @@ Gồm thụ thể nicotinic và muscarinic
 | Chất đồng vận | dimethyl phenyl piperazine (DMPP)                | phenyl trimethyl ammonium                               |
 | Chất đối vận  | trimethaphan                                     | d.tubocuramine, bulgarotoxine                           |
 | Vai trò       | khử cực hạch TK tự chủ, TTT ↑ tiết catecholamine | kích thích tấm động TK cơ bị khử cực, các cơ vân co lại |
-### Thụ thể M
+### 2.3.2 Thụ thể M
 
 |               | M1                          | M2                                                           | M3                                  |
 | ------------- | --------------------------- | ------------------------------------------------------------ | ----------------------------------- |
@@ -94,7 +94,7 @@ Gồm thụ thể nicotinic và muscarinic
 | Chất đồng vận | oxotremorine, McN A 343     |                                                              |                                     |
 | Chất đối vận  | atropine, pirenzepin        | atropine                                                     | atropine                            |
 | Vai trò       | khử cực hạch tự chủ         | chậm khử cực ở SA, giảm co bóp nhĩ, giảm dẫn truyền nhĩ thất | co cơ trơn và tăng tiết ở các tuyến |
-# CHỨC NĂNG HỆ THẦN KINH TỰ CHỦ
+# 3 CHỨC NĂNG HỆ THẦN KINH TỰ CHỦ
 
 | Mô hiệu ứng                 | Đáp ứng giao cảm                               | Đáp ứng phó giao cảm |
 | --------------------------- | ---------------------------------------------- | -------------------- |

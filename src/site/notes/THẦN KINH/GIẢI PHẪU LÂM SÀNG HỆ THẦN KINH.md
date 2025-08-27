@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/than-kinh/giai-phau-lam-sang-he-than-kinh/","noteIcon":"","created":"2025-08-25T10:22:57.540+07:00","updated":"2025-08-27T22:20:51.810+07:00"}
+{"dg-publish":true,"permalink":"/than-kinh/giai-phau-lam-sang-he-than-kinh/","noteIcon":"","created":"2025-08-25T10:22:57.540+07:00","updated":"2025-08-27T22:48:05.802+07:00"}
 ---
 
 
 📚 Tài liệu tham khảo
 - Sổ tay lâm sàng thần kinh YDS 2020
 - Tiếp cận lâm sàng thần kinh PNT 2022
-# 1 đẠI THỂ
+# 1 ĐẠI THỂ
 Hệ TK gồm 2 phần chính: trung ương & ngoại biên
 - Trung ương: não + tủy sống
 - Ngoại biên: nhân và dây thần kinh sọ; sừng trước, rễ và dây thần kinh tủy, hạch thần kinh và đám rối của nó. 
@@ -19,7 +19,7 @@ Não nằm trong hộp sọ, bao gồm
 	- Hành não (medulla oblongata)
 - Tiểu não (cerebellum)
 ![GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH-1756092972731.jpeg](/img/user/image/GI%E1%BA%A2I%20PH%E1%BA%AAU%20L%C3%82M%20S%C3%80NG%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH-1756092972731.jpeg)
-# 2 bán cầu đại não
+# 2 BÁN CẦU ĐẠI NÃO
 ## 2.1 Các khe, thùy, rãnh
 - Khe gian bán cầu (khe não dọc)
 - Rãnh bên Sylvius: phân cách thùy tháo dương với thùy trán ở trước và thùy đỉnh ở sau
@@ -52,6 +52,8 @@ Não nằm trong hộp sọ, bao gồm
 | Chức năng  | Hiểu ngôn ngữ nói và viết                                                                                                                                      | Tổ chức và lập trình ngôn ngữ nói và viết.    <br>Điều khiển các cơ vận động để phát âm, tạo câu cú đúng ngữ pháp.                                                        | Truyền đạt thông tin ngôn ngữ đã được “hiểu” ở Wernicke sang “bộ phận sản xuất lời nói” ở Broca                  |
 | Tổn thương | Gây **mất ngôn ngữ kiểu Wernicke (Wernicke’s aphasia)** → bệnh nhân nói lưu loát, nhanh, nhưng nội dung rối loạn, không có nghĩa, và không hiểu người khác nói | Tổn thương: gây **mất ngôn ngữ kiểu Broca (Broca’s aphasia)** → bệnh nhân hiểu được người khác nói nhưng nói ra rất khó khăn, lời nói ngắt quãng, thiếu từ, sai ngữ pháp. | Bệnh nhân vẫn hiểu được ngôn ngữ (Wernicke còn), vẫn nói được (Broca còn), nhưng **mất sự lặp lại ngôn ngữ nói** |
 |            | vùng cảm giác, ==understands word==                                                                                                                            | vùng vận động, ==produces word==                                                                                                                                          |                                                                                                                  |
+
+
 ![GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH-1756180289524.jpeg|600](/img/user/image/GI%E1%BA%A2I%20PH%E1%BA%AAU%20L%C3%82M%20S%C3%80NG%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH-1756180289524.jpeg)
 ### 2.2.3 Các vùng vỏ não khác
 ![GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH-1756179392354.jpeg](/img/user/image/GI%E1%BA%A2I%20PH%E1%BA%AAU%20L%C3%82M%20S%C3%80NG%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH-1756179392354.jpeg)
@@ -64,7 +66,7 @@ Não nằm trong hộp sọ, bao gồm
 Đại não được cấp máu bởi:
 - ĐM não trước và giữa xuất phát từ ĐM cảnh trong
 - ĐM não sau xuất phát từ ĐM thân nền
-# 3 tủy sống
+# 3 TỦY SỐNG
 ## 3.1 Dây thần kinh tủy
 - Tủy sống hình trụ, chạy dài từ lỗ lớn của sọ đến nón tủy ở khoảng gian đốt sống L1-L2. - Ở đoạn không còn tủy, các rễ thắt lưng-cùng chạy xuống dưới thành chùm đuôi ngựa.
 - Có 2 đoạn phình: đoạn tủy cổ C3-T2 và tủy thắt lưng - cùng (L1-S3)
@@ -108,6 +110,7 @@ Não nằm trong hộp sọ, bao gồm
 | Bó gai đồi thị trước  | Sờ nông                                                                    | 1. Sợi trục theo rễ sau đi vào tủy sống<br>2. Tiếp hợp với neuron thứ 2 ở **sừng sau**<br>3. Sợi trục bắt chéo ở **mép trắng trước** cao hơn vài khoanh tủy tạo thành bó gai đồi thị trước, nằm ở cột bên và trước<br>4. **Nhân bụng sau bên đồi thị**                                                                                                     |                                                                                                                                                                                                                                                                             |
 | Bó gai tiểu não sau   | Co cơ                                                                      |                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                             |
 | Bó gai tiểu não trước | Hoạt động của neuron trung gian và ảnh hưởng của các đường dẫn truyền xuốn |                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                             |
+
 **Các đường dẫn truyền xuống**
 ![GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH-1756217002169.jpeg](/img/user/image/GI%E1%BA%A2I%20PH%E1%BA%AAU%20L%C3%82M%20S%C3%80NG%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH-1756217002169.jpeg)
 
@@ -117,6 +120,7 @@ Não nằm trong hộp sọ, bao gồm
 | Bó đỏ gai              |                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Bó tiền đình gai ngoài |                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Bó tiền đình gai trong |                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
 **Đường thần kinh thực vật đi xuống**
 Thân tế bào chủ yếu ở vùng hạ đồi. 
 Đường đi: đi xuống sừng bên tủy sống.
@@ -127,7 +131,7 @@ Bởi 2 ĐM tủy sống sau và 1 ĐM tủy sống trước, đều xuất phá
 - 1 ĐM tủy sống trước cấp máu cho 2/3 trước tủy
 Vùng tủy dễ bị tổn thương nhất là T1-T4 và L4 vì là vùng ranh giới nhận máu từ 2 nguồn khác nhau. 
 # 4 THÂN NÃO
-## Tổng quan
+## 4.1 Tổng quan
 Được chia làm 3 phần từ trên xuống: trung não, cầu não, hành não. 
 Mỗi phần được chia làm 3 theo từ trước sau: nền (basis), trần (tegmentum) và mái (tectum)
 ![GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH-1756219202069.jpeg](/img/user/image/GI%E1%BA%A2I%20PH%E1%BA%AAU%20L%C3%82M%20S%C3%80NG%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH-1756219202069.jpeg)
@@ -135,11 +139,11 @@ Mỗi phần được chia làm 3 theo từ trước sau: nền (basis), trần 
 - Phần trần chứa chất xám và những bó quan trọng về sinh tồn
 - Phần mái gồm củ não sinh tư, phần mái não thất tư, không bao gồm tiểu não
 ![GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH-1756307576812.jpeg](/img/user/image/GI%E1%BA%A2I%20PH%E1%BA%AAU%20L%C3%82M%20S%C3%80NG%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH-1756307576812.jpeg)
-## Cung cấp máu
+## 4.2 Cung cấp máu
 Thân não được cấp máu bởi các nhánh của hệ đốt sống - thân nền. 
 - Động mạch đốt sống cho các nhánh động mạch <font color="#00b050">tủy sống sau</font>, động mạch <font color="#00b050">tủy sống trước</font> và động mạch <font color="#0070c0">tiểu não sau dưới</font> (PICAs).  
 + Động mạch thân nền cho các nhánh: động mạch cạnh đường giữa, động mạch <font color="#0070c0">tiểu não trên</font> (SCAs) và động mạch <font color="#0070c0">tiểu não trước dưới</font> (AICAs)
-# 5 đôi dây thần kinh sọ
+# 5 ĐÔI DÂY TK SỌ
 
 | Số & tên dây sọ                | Chức năng                                                                       | Vị trí đi/ra khỏi não                                                            |
 | ------------------------------ | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
@@ -155,6 +159,7 @@ Thân não được cấp máu bởi các nhánh của hệ đốt sống - thâ
 | Dây X – TK lang thang          | Vị giác vòm khẩu cái, nuốt, phát âm, chi phối tạng ngực & bụng                  | Rãnh sau bên hành não, ở giữa                                                    |
 | Dây XI – TK phụ                | Vận động cơ ức đòn chũm, cơ thang                                               | Rãnh sau bên hành não, dưới cùng; duy nhất có nguồn gốc từ tủy sống              |
 | Dây XII – TK hạ thiệt          | Cử động lưỡi                                                                    | Rãnh trước bên hành não (giữa tháp hành và nhân trám dưới)                       |
+
 ![GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH-1756220430706.jpeg](/img/user/image/GI%E1%BA%A2I%20PH%E1%BA%AAU%20L%C3%82M%20S%C3%80NG%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH-1756220430706.jpeg)
 ![GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH-1756219996595.jpeg](/img/user/image/GI%E1%BA%A2I%20PH%E1%BA%AAU%20L%C3%82M%20S%C3%80NG%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH-1756219996595.jpeg)
 # 6 SỰ ĐỐI BÊN CỦA TKTW
