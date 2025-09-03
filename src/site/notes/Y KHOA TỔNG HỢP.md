@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/y-khoa-tong-hop/","tags":["gardenEntry"],"noteIcon":"","created":"2025-06-02T10:31:24.362+07:00","updated":"2025-08-27T22:20:20.933+07:00"}
+{"dg-publish":true,"permalink":"/y-khoa-tong-hop/","tags":["gardenEntry"],"created":"2025-06-02T10:31:24.362+07:00","updated":"2025-08-27T22:20:20.933+07:00"}
 ---
 
 # CHỦ ĐỀ

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sinh-ly-mau/","tags":["erythrocyte","redbloodcell"],"noteIcon":"","created":"2025-07-14T08:04:57.809+07:00","updated":"2025-07-18T17:01:48.079+07:00"}
+{"dg-publish":true,"permalink":"/sinh-ly-mau/","tags":["erythrocyte","redbloodcell"],"created":"2025-07-14T08:04:57.809+07:00","updated":"2025-07-18T17:01:48.079+07:00"}
 ---
 
 # SINH LÝ HỒNG CẦU

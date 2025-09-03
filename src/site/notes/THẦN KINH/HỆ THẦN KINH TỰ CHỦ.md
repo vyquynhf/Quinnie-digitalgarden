@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/than-kinh/he-than-kinh-tu-chu/","noteIcon":"","created":"2025-08-27T15:37:18.329+07:00","updated":"2025-08-27T22:49:25.552+07:00"}
+{"dg-publish":true,"permalink":"/than-kinh/he-than-kinh-tu-chu/","created":"2025-08-27T15:37:18.329+07:00","updated":"2025-09-03T09:35:36.217+07:00"}
 ---
 
 
@@ -41,12 +41,12 @@ Neuron hậu hạch chi phối các <font color="#ffc000">cơ quan ở bụng</f
 Thụ thể hệ giao cảm gồm 2 loại α và β
 ### 1.3.1 Thụ thể α
 
-|               | α1                                                                               | α2                                                             |
-| ------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Vị trí        | cơ trơn (mạch máu, niệu sinh dục, tiêu hóa, tim, gan)                            | tế bào β tụy, tiểu cầu, tận cùng TK, cơ trơn mạch máu          |
-| Chất đồng vận | phenylephrine, adrenaline,  <br>nor-adrenaline, isoproterenol                    | clonidine<br>adrenaline ≥ norepinephrine → isoproterenol       |
-| Chất đối vận  | prazosin                                                                         | yohimbine                                                      |
-| Vai trò       | co thắt cơ trơn mạch máu, cơ trơn niệu dục, tãng glycogen ở gan và tân tạo đường | tế bào β tụy giảm tiết insulin, ngưng tập tiểu cầu, co cơ trơn |
+|               | α1                                                                                       | α2                                                             |
+| ------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Vị trí        | cơ trơn (mạch máu, niệu sinh dục, tiêu hóa, tim, gan)                                    | tế bào β tụy, tiểu cầu, tận cùng TK, cơ trơn mạch máu          |
+| Chất đồng vận | phenylephrine, adrenaline,  <br>nor-adrenaline, isoproterenol                            | clonidine<br>adrenaline ≥ norepinephrine → isoproterenol       |
+| Chất đối vận  | prazosin                                                                                 | yohimbine                                                      |
+| Vai trò       | co thắt cơ trơn mạch máu, cơ trơn niệu dục, tăng phân ly glycogen ở gan và tân tạo đường | tế bào β tụy giảm tiết insulin, ngưng tập tiểu cầu, co cơ trơn |
 
 ### 1.3.2 Thụ thể β
 

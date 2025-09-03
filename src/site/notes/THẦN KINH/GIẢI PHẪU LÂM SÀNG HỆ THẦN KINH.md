@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/than-kinh/giai-phau-lam-sang-he-than-kinh/","noteIcon":"","created":"2025-08-25T10:22:57.540+07:00","updated":"2025-08-27T22:48:05.802+07:00"}
+{"dg-publish":true,"permalink":"/than-kinh/giai-phau-lam-sang-he-than-kinh/","created":"2025-08-25T10:22:57.540+07:00","updated":"2025-08-28T22:20:24.327+07:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 # 1 ĐẠI THỂ
 Hệ TK gồm 2 phần chính: trung ương & ngoại biên
 - Trung ương: não + tủy sống
-- Ngoại biên: nhân và dây thần kinh sọ; sừng trước, rễ và dây thần kinh tủy, hạch thần kinh và đám rối của nó. 
+- Ngoại biên: nhân và dây thần kinh sọ; dây thần kinh tủy, hạch thần kinh.
 Não nằm trong hộp sọ, bao gồm
 - Đại não (cerebrum): 2 bán cầu
 - Gian não (diencephalon): đồi thị, hạ đồi, tuyến yên
@@ -44,6 +44,9 @@ Não nằm trong hộp sọ, bao gồm
 - Gồm các vùng xung quanh khe Sylvius: Wernicke, bó cung, hồi góc, Broca
 
 ![GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH-1756179830156.jpeg](/img/user/image/GI%E1%BA%A2I%20PH%E1%BA%AAU%20L%C3%82M%20S%C3%80NG%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH-1756179830156.jpeg)
+
+
+
 *A: hồi góc, B: Broca, EC: trung tâm viết Exner, H: trung tâm âm nhạc Henschen, W: Wernicke*
 
 |            | Wernicke                                                                                                                                                       | Broca                                                                                                                                                                     | Bó cung                                                                                                          |
@@ -56,11 +59,11 @@ Não nằm trong hộp sọ, bao gồm
 
 ![GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH-1756180289524.jpeg|600](/img/user/image/GI%E1%BA%A2I%20PH%E1%BA%AAU%20L%C3%82M%20S%C3%80NG%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH-1756180289524.jpeg)
 ### 2.2.3 Các vùng vỏ não khác
-![GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH-1756179392354.jpeg](/img/user/image/GI%E1%BA%A2I%20PH%E1%BA%AAU%20L%C3%82M%20S%C3%80NG%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH-1756179392354.jpeg)
+![GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH-1756179392354.jpeg|500](/img/user/image/GI%E1%BA%A2I%20PH%E1%BA%AAU%20L%C3%82M%20S%C3%80NG%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH-1756179392354.jpeg)
 
 |         | Vỏ não cảm giác thân thể                        | Vỏ não thính giác                                           | Vỏ não thị giác                                           | Vỏ não vị giác                 | Vỏ não khứu giác    |
 | ------- | ----------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------- | ------------------------------ | ------------------- |
-| Vị trí  | Hồi sau trung tâm                               | Hồi thái dương ngang                                        | Bờ trên và dưới của rãnh cựa thùy chẩm                    | Nắp đỉnh của hồi sau trung tâm | Quanh thể hạnh nhân |
+| Vị trí  | Hồi sau trung tâm                               | Hồi thái dương ngang                                        | Bờ trên và dưới của rãnh cựa                              | Nắp đỉnh của hồi sau trung tâm | Quanh thể hạnh nhân |
 | Vai trò | Nhận các dẫn truyền cảm giác bản thể từ đồi thị | Nhận các dẫn truyền thính giác từ thể gối trong của đồi thị | Nhận các dẫn truyền thị giác từ thể gối ngoài của đồi thị |                                |                     |
 ## 2.3 Cấp máu cho đại não
 Đại não được cấp máu bởi:
@@ -68,7 +71,7 @@ Não nằm trong hộp sọ, bao gồm
 - ĐM não sau xuất phát từ ĐM thân nền
 # 3 TỦY SỐNG
 ## 3.1 Dây thần kinh tủy
-- Tủy sống hình trụ, chạy dài từ lỗ lớn của sọ đến nón tủy ở khoảng gian đốt sống L1-L2. - Ở đoạn không còn tủy, các rễ thắt lưng-cùng chạy xuống dưới thành chùm đuôi ngựa.
+- Tủy sống hình trụ, chạy dài từ lỗ lớn của sọ đến nón tủy ở khoảng gian đốt sống L1-L2. Ở đoạn không còn tủy, các rễ thắt lưng-cùng chạy xuống dưới thành chùm đuôi ngựa.
 - Có 2 đoạn phình: đoạn tủy cổ C3-T2 và tủy thắt lưng - cùng (L1-S3)
 - 31 đôi dây thần kinh tủy, do sự hợp thành của rễ trước (rễ bụng - rễ vận động) và rễ sau (rễ lưng - rễ cảm giác) *trừ C1 chỉ có rễ trước*, rễ trước và sau hợp nhau ở lỗ gian sống và chui ra khỏi ống sống
 	- 8 cổ C1-C8
@@ -84,7 +87,7 @@ Não nằm trong hộp sọ, bao gồm
 	- Rãnh trước bên là nơi đi vào đi ra của rễ trước, sau bên là của rễ sau, chia mỗi nửa tủy sống thành 3 đoạn: cột trước, cột bên, cột sau.
 
 Ở đoạn tủy cổ và ngực cao (<T6), cột sau được chia thành bó thon (trong), bó chêm (ngoài)
-![GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH-1756196154240.jpeg](/img/user/image/GI%E1%BA%A2I%20PH%E1%BA%AAU%20L%C3%82M%20S%C3%80NG%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH-1756196154240.jpeg)
+![GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH-1756196154240.jpeg|500](/img/user/image/GI%E1%BA%A2I%20PH%E1%BA%AAU%20L%C3%82M%20S%C3%80NG%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH-1756196154240.jpeg)
 ### 3.2.1 Chất xám
 - Sừng trước: to nhất, chứa neuron vận động, theo thứ tự tay ngoài, thân mình ở trong, cơ duỗi phía trước, cơ gập ở sau 
 - Sừng trung gian: chỉ có ở tủy ngực và thắt lưng cao (C8-L2), chứa neuron giao cảm, các neuron phó giao cảm nằm ở tủy cùng
@@ -94,9 +97,8 @@ Não nằm trong hộp sọ, bao gồm
 
 |                  | Cột sau                                                                                                                                                                                                                       |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Nhiệm vụ         | Dẫn truyền cảm giác sâu có ý thức và tiếp xúc tinh ti                                                                                                                                                                         |
+| Nhiệm vụ         | Dẫn truyền cảm giác sâu có ý thức và tiếp xúc tinh vi                                                                                                                                                                         |
 | Thụ thể cảm giác | Nằm ở da, thoi cơ, cơ quan Golgi gân cơ, khớp                                                                                                                                                                                 |
-|                  | Sợi trục từ nón tủy - T6 tạo bó thon, từ T6 trở lên tạo bó chêm                                                                                                                                                               |
 | Đường đi         | Sợi trục của neuron thứ 1 đến nhân thon và chêm ở hành não, tiếp hợp với neuron thứ 2. <br>Sợi trục của neuron 2 bắt chéo tại hành não sang bên đối diện tạo liềm trong, tiếp hợp với neuron 3 tại nhân bụng sau bên đồi thị. |
 | Tổn thương       | Mất/ giảm cảm giác ở **cùng bên** tổn thương<br>- Rung (khám bằng âm thoa)<br>- Vị trí tư thế<br>- Phân biệt 2 điểm<br>- Trọng lực<br>- Sờ sâu (sờ thô vẫn còn qua bó gai-đồi thị trước)                                      |
 #### 3.2.2.2 Cột bên và trước
@@ -104,12 +106,12 @@ Não nằm trong hộp sọ, bao gồm
 { #9e7af9}
 
 
-|                       | Dẫn truyền                                                                 | Đường đi                                                                                                                                                                                                                                                                                                                                                   | Tổn thương                                                                                                                                                                                                                                                                  |
-| --------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Bó gai đồi thị bên    | Đau và nhiệt                                                               | 1. Sợi trục theo rễ sau đi vào tủy sống<br>2. Tiếp giáp với neuron thứ 2 ở **sừng sau** ở 1-2 khoanh tủy bên trên nó<br>3. Sợi trục neuron 2 bắt chéo sang đối diện tại **mép trắng trước** → bó gai-đồi thị bên ở cột bên tủy sống<br>4. Tiếp hợp neuron 3 ở **nhân bụng sau bên** của đồi thị<br>![GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH-1756203915175.jpeg](/img/user/image/GI%E1%BA%A2I%20PH%E1%BA%AAU%20L%C3%82M%20S%C3%80NG%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH-1756203915175.jpeg) | - Tổn thương bó gai đồi thị bên gây mất cảm giác đau và nhiệt nửa người đối bên ở các khoanh da dưới nơi tổn thương<br>- Tổn thương rễ sau gây mất cảm giác cùng bên <br>- Tổn thương mép trắng trước gây mất cảm giác đau nhiệt 2 bên chỉ tại mức khoanh tủy bị tổn thương |
-| Bó gai đồi thị trước  | Sờ nông                                                                    | 1. Sợi trục theo rễ sau đi vào tủy sống<br>2. Tiếp hợp với neuron thứ 2 ở **sừng sau**<br>3. Sợi trục bắt chéo ở **mép trắng trước** cao hơn vài khoanh tủy tạo thành bó gai đồi thị trước, nằm ở cột bên và trước<br>4. **Nhân bụng sau bên đồi thị**                                                                                                     |                                                                                                                                                                                                                                                                             |
-| Bó gai tiểu não sau   | Co cơ                                                                      |                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                             |
-| Bó gai tiểu não trước | Hoạt động của neuron trung gian và ảnh hưởng của các đường dẫn truyền xuốn |                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                             |
+|                       | Dẫn truyền                                                                  | Đường đi                                                                                                                                                                                                                                                                                                                                                   | Tổn thương                                                                                                                                                                                                                                                                  |
+| --------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bó gai đồi thị bên    | Đau và nhiệt                                                                | 1. Sợi trục theo rễ sau đi vào tủy sống<br>2. Tiếp giáp với neuron thứ 2 ở **sừng sau** ở 1-2 khoanh tủy bên trên nó<br>3. Sợi trục neuron 2 bắt chéo sang đối diện tại **mép trắng trước** → bó gai-đồi thị bên ở cột bên tủy sống<br>4. Tiếp hợp neuron 3 ở **nhân bụng sau bên** của đồi thị<br>![GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH-1756203915175.jpeg](/img/user/image/GI%E1%BA%A2I%20PH%E1%BA%AAU%20L%C3%82M%20S%C3%80NG%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH-1756203915175.jpeg) | - Tổn thương bó gai đồi thị bên gây mất cảm giác đau và nhiệt nửa người đối bên ở các khoanh da dưới nơi tổn thương<br>- Tổn thương rễ sau gây mất cảm giác cùng bên <br>- Tổn thương mép trắng trước gây mất cảm giác đau nhiệt 2 bên chỉ tại mức khoanh tủy bị tổn thương |
+| Bó gai đồi thị trước  | Sờ nông                                                                     | 1. Sợi trục theo rễ sau đi vào tủy sống<br>2. Tiếp hợp với neuron thứ 2 ở **sừng sau**<br>3. Sợi trục bắt chéo ở **mép trắng trước** cao hơn vài khoanh tủy tạo thành bó gai đồi thị trước, nằm ở cột bên và trước<br>4. **Nhân bụng sau bên đồi thị**                                                                                                     |                                                                                                                                                                                                                                                                             |
+| Bó gai tiểu não sau   | Co cơ                                                                       |                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                             |
+| Bó gai tiểu não trước | Hoạt động của neuron trung gian và ảnh hưởng của các đường dẫn truyền xuống |                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                             |
 
 **Các đường dẫn truyền xuống**
 ![GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH-1756217002169.jpeg](/img/user/image/GI%E1%BA%A2I%20PH%E1%BA%AAU%20L%C3%82M%20S%C3%80NG%20H%E1%BB%86%20TH%E1%BA%A6N%20KINH-1756217002169.jpeg)
@@ -170,7 +172,7 @@ Thân não được cấp máu bởi các nhánh của hệ đốt sống - thâ
 	- Mỗi bán cầu não sẽ nhận cảm giác của nửa người đối diện (cảm giác nông như sờ, đau, nhiệt và các kích thích cảm giác sâu như rung, vị trí, ...)
 	- Thân neuron nguyên phát nằm ở hạch rễ sau → tiếp hợp neuron thứ 2 ở sừng sau → sợi trục bắt chéo sang bên đối diện đi lên đồi thị (xem thêm [[#^9e7af9|Bó gai đồi thị bên]])
 - Sự đối bên của đường vận động
-	- Mỗi bán cầu não chi phối vận động cho nửa người đối bên nhờ sự bắt chéo của bó vỏ gai hay bó tháp.
+	- Mỗi bán cầu não chi phối vận động cho nửa người đối bên nhờ sự bắt chéo của bó vỏ gai (bó tháp).
 
 # 7 HỆ THỐNG VẬN ĐỘNG
 - Chức năng vận động được duy trì dựa trên hệ tháp, hệ ngoại tháp, tiểu não, các tế bào vận động ngoại biên và bắp cơ.
@@ -199,6 +201,7 @@ Gồm bó vỏ gai và bó vỏ hành
 	- Gián tiếp
 		- Được ức chế bởi dopamin (D2)
 		- Vỏ não → Thể vân → <font color="#ffc000">Cầu nhạt (ngoài) → Nhân dưới đồi</font> → Cầu nhạt (trong) → đồi thị → vỏ não: ức chế vận động không mong muốn/dư thừa
+
 > [!warning] Vai trò 
 > Hạch nền như **“bộ lọc – bộ điều chỉnh”**, lọc tín hiệu nào nên được thực hiện, tín hiệu nào nên bị ngăn lại. Sau đó, hạch nền **không gửi tín hiệu trực tiếp xuống tủy sống**, mà gửi phản hồi lên lại vỏ não, để vỏ não quyết định phát động vận động.
 

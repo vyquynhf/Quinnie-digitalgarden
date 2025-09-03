@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/than-kinh/con-duong-cam-giac-dau/","tags":["#pain"],"noteIcon":"","created":"2025-08-17T22:30:15.287+07:00","updated":"2025-08-27T22:48:46.941+07:00"}
+{"dg-publish":true,"permalink":"/than-kinh/con-duong-cam-giac-dau/","tags":["#pain"],"created":"2025-08-17T22:30:15.287+07:00","updated":"2025-09-02T22:33:30.634+07:00"}
 ---
 
 📚 Tài liệu tham khảo 
@@ -23,7 +23,7 @@ Một dây thần kinh ngoại biên bao gồm các sợi trục, có 3 loại t
 > [!warning] 
 > Khả năng phát hiện các kích thích gây đau sẽ bị mất hoàn toàn nếu sự dẫn truyền ở các sợi trục Aδ và C bị chặn.
 ## 1.2 Sự nhạy cảm hóa thụ thể đau
-Tổn thương mô và phản ứng viêm dần đến sự phóng thích các phân tử bradykinin và prostaglandin. Ngoài ra, khi thụ thể đau bị kích thích, các đầu tận thần kinh sẽ phóng thích chất P, calcitonin gene related peptide CGRP → 2 neuropeptide này kích thích dưỡng bào tiết histamin và bradykinin
+Tổn thương mô và phản ứng viêm dẫn đến sự phóng thích các phân tử bradykinin và prostaglandin. Ngoài ra, khi thụ thể đau bị kích thích, các đầu tận thần kinh sẽ phóng thích chất P, calcitonin gene related peptide CGRP → 2 neuropeptide này kích thích dưỡng bào tiết histamin và bradykinin
 <font color="#ffc000">Định nghĩa:</font> khi có kích thích mạnh, lặp lại hoặc kéo dài → **giảm ngưỡng hoạt hóa** các thụ thể đau, lúc này những kích thích bình thường cũng gây đau 
 - Tăng cảm đau (hyperalgesia): tăng mức độ đáp ứng với kích thích đau
 - Loạn cảm đau (allodynia): đáp ứng đau đối với một kích thích bình thường không gây đau
@@ -47,7 +47,7 @@ Các con đường dẫn truyền cảm giác đau:
 # 3 SỰ ĐIỀU BIẾN ĐAU
 ## 3.1 Cơ chế cổng trong điều biến đau theo Wall & Melzack (1965)
   ![CON ĐƯỜNG CẢM GIÁC ĐAU-1756281339316.jpeg](/img/user/image/CON%20%C4%90%C6%AF%E1%BB%9CNG%20C%E1%BA%A2M%20GI%C3%81C%20%C4%90AU-1756281339316.jpeg)
-- Sợi dẫn truyền cảm giác đau và sợi dẫn truyền cảm giác cơ học đều kích thích neuron phóng chiếu ở sừng sau tùy sống
+- Sợi dẫn truyền cảm giác đau và sợi dẫn truyền cảm giác cơ học đều kích thích neuron phóng chiếu ở sừng sau tủy sống
 - Neuron phóng chiếu bị ức chế bời neuron trung gian; sau đỏ, neuron trung gian đồng thời bị kích thích bởi sợi dẫn truyền cảm giác cơ học và bị ức chế bởi sợi dẫn truyền đau
 - Do vậy, sợi dẫn truyền đau hoạt hóa tối đa neuron phóng chiếu, cho phép tín hiệu đau đi lên não
 - Tuy nhiên hoạt động của sợi cơ học có thể kích hoạt neuron trung gian gây đóng cổng đầu vào tín hiệu đau trước khi nó được dẫn truyền lên tủy sống. 
@@ -79,7 +79,7 @@ Các con đường dẫn truyền cảm giác đau:
 <u>Ví dụ:</u>
 Các sợi hướng tâm chi phối cơ hoành và vùng da ở vai đều có thân tế bào nằm cùng hạch rễ lưng C3-4. Viêm ở vùng cơ hoành thường gặp than phiền về cảm giác khó chịu vùng vai. 
 ## 4.2 Đau nội tạng
-Khi một cơn đau tạng được quy chiếu lên bề mặt cơ thể, người bệnh thường cảm nhận cơn đau **khoanh da mà từ đó tạng được hình thành trong thời kỳ phôi thai**.
+Khi một cơn đau tạng được quy chiếu lên bề mặt cơ thể, người bệnh thường cảm nhận cơn đau ở **khoanh da mà từ đó tạng được hình thành trong thời kỳ phôi thai**.
 *Ví dụ*: tim có nguồn gốc từ cổ và ngực trên, do vậy các sợi thần kinh chi phối cảm giác đau tạng của tim đi dọc theo dây thần kinh cảm giác giao cảm và vào tủy sống ở đoạn C3 - T5. Do vậy, cơn đau từ tim thường được quy chiểu lên vùng cổ, vai, dọc theo cánh tay và vùng dưới xương ức
 ## 4.3 Đau thần kinh 
 Tổn thương ở các đường dẫn truyền cảm giác đau ngoại biên hoặc trung ương thường dẫn đến mất hoặc giảm cảm giác đau, tuy nhiên, cũng có thể gây ra cảm giác đau (ví dụ tổn thương TK ngoại biên ở người ĐTĐ, tổn thương các thụ thể hướng tâm do nhiễm herpes zosrer). 
