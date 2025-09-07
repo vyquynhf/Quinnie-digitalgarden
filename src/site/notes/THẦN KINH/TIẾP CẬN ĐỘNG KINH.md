@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/than-kinh/tiep-can-dong-kinh/","tags":["seizure","epilepsy"],"noteIcon":"1","created":"2025-09-05T20:50:48.240+07:00","updated":"2025-09-07T14:39:14.864+07:00"}
+{"dg-publish":true,"permalink":"/than-kinh/tiep-can-dong-kinh/","tags":["seizure","epilepsy"],"noteIcon":"1","created":"2025-09-05T20:50:48.240+07:00","updated":"2025-09-07T15:37:53.599+07:00"}
 ---
 
 📚 Tài liệu tham khảo
@@ -149,6 +149,7 @@ Sau đây là các nguyên nhân thường gặp của các cơn động kinh m�
 
 # 6 TIẾP CẬN CHẨN ĐOÁN 
 Xem thêm: [[TIẾP CẬN CHẨN ĐOÁN CO GIẬT.pdf]]
+[TIẾP CẬN CHẨN ĐOÁN CO GIẬT bản drive](https://drive.google.com/file/d/1M0gIPZpOcQ4FerAax3bE9ukOLHf3IzxE/view?usp=sharing)
 > [!warning] Giải quyết các vấn đề sau
 > 1. Có phải cơn động kinh không?
 > 2. Phân loại cơn động kinh
