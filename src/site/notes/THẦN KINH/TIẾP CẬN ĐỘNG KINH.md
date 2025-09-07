@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/than-kinh/tiep-can-dong-kinh/","tags":["seizure","epilepsy"],"noteIcon":"1","created":"2025-09-05T20:50:48.240+07:00","updated":"2025-09-07T15:37:53.599+07:00"}
+{"dg-publish":true,"permalink":"/than-kinh/tiep-can-dong-kinh/","tags":["seizure","epilepsy"],"noteIcon":"1","created":"2025-09-05T20:50:48.240+07:00","updated":"2025-09-07T15:39:34.596+07:00"}
 ---
 
 📚 Tài liệu tham khảo
@@ -158,13 +158,13 @@ Xem thêm: [[TIẾP CẬN CHẨN ĐOÁN CO GIẬT.pdf]]
 
 ## 6.1 Bệnh sử 
 
-| **Giai đoạn**       | **Nội dung cần hỏi**                                                                                                                                                                                                                  |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Thông tin chung** | - Hỏi cả bệnh nhân và người chứng kiến <br>- Đánh giá mức độ tin cậy (trực tiếp hay nghe kể lại)<br>- Tiền căn                                                                                                                        |
-| **Trước cơn**       | - Yếu tố thúc đẩy<br>- Có triệu chứng báo trước (prodrome)? (thay đổi khí sắc, hành vi vài giờ–vài ngày trước cơn) <br>- Có tiền triệu (aura)? (cảm giác lạ, déjà vu, jamais vu, ảo khứu, chớp sáng, ảo thanh…)                       |
-| **Khởi phát cơn**   | - Bắt đầu ở một phần cơ thể hay toàn thể ngay từ đầu? <br>- Có lan từ khu trú → toàn thể không?                                                                                                                                       |
-| **Trong cơn**       | - Biểu hiện: co cứng, co giật, động tác tự động, cảm giác, vận động? <br>- Rối loạn tri giác? Bắt đầu từ thời điểm nào?<br>- Thời điểm, hoàn cảnh xảy ra <br>- Thời gian cơn bao lâu <br>- Có cắn lưỡi, tiểu tiện không tự chủ không? |
-| **Sau cơn**         | - Tỉnh ngay hay còn lú mờ, ngủ gà? <br>- Có rối loạn tri giác kéo dài không? <br>- Có liệt Todd  không? <br>- Triệu chứng kèm: nhức đầu, đau cơ, đau lưỡi, lú lẫn                                                                     |
+| **Giai đoạn**       | **Nội dung cần hỏi**                                                                                                                                                                                                                  |     |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| **Thông tin chung** | - Hỏi cả bệnh nhân và người chứng kiến <br>- Đánh giá mức độ tin cậy (trực tiếp hay nghe kể lại)<br>- Tiền căn                                                                                                                        |     |
+| **Trước cơn**       | - Yếu tố thúc đẩy<br>- Có triệu chứng báo trước (prodrome)? (thay đổi khí sắc, hành vi vài giờ–vài ngày trước cơn) <br>- Có tiền triệu (aura)? (cảm giác lạ, déjà vu, jamais vu, ảo khứu, chớp sáng, ảo thanh…)                       |     |
+| **Khởi phát cơn**   | - Bắt đầu ở một phần cơ thể hay toàn thể ngay từ đầu? <br>- Có lan từ khu trú → toàn thể không?                                                                                                                                       |     |
+| **Trong cơn**       | - Biểu hiện: co cứng, co giật, động tác tự động, cảm giác, vận động? <br>- Rối loạn tri giác? Bắt đầu từ thời điểm nào?<br>- Thời điểm, hoàn cảnh xảy ra <br>- Thời gian cơn bao lâu <br>- Có cắn lưỡi, tiểu tiện không tự chủ không? |     |
+| **Sau cơn**         | - Tỉnh ngay hay còn lú mờ, ngủ gà? <br>- Có rối loạn tri giác kéo dài không? <br>- Có liệt Todd  không? <br>- Triệu chứng kèm: nhức đầu, đau cơ, đau lưỡi, lú lẫn                                                                     |     |
 ## 6.2 Lâm sàng
 ### 6.2.1 Các sự kiện xảy ra vào lúc khởi phát cơn
 - ***Triệu chứng tiền triệu (Aura)*** 
