@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/than-kinh/kham-12-doi-day-than-kinh-so/","created":"2025-09-03T10:15:53.970+07:00","updated":"2025-09-04T09:47:22.393+07:00"}
+{"dg-publish":true,"permalink":"/than-kinh/kham-12-doi-day-than-kinh-so/","noteIcon":"1","created":"2025-09-03T10:15:53.970+07:00","updated":"2025-09-04T09:47:22.393+07:00"}
 ---
 
 

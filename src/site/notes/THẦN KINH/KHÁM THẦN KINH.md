@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/than-kinh/kham-than-kinh/","created":"2025-09-03T10:25:33.291+07:00","updated":"2025-09-03T20:35:23.235+07:00"}
+{"dg-publish":true,"permalink":"/than-kinh/kham-than-kinh/","noteIcon":"1","created":"2025-09-03T10:25:33.291+07:00","updated":"2025-09-03T20:35:23.235+07:00"}
 ---
 
 

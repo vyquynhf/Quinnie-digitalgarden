@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/than-kinh/tiep-can-dau-dau/","tags":["cephalgia"],"created":"2025-09-03T21:34:51.317+07:00","updated":"2025-09-05T16:12:09.009+07:00"}
+{"dg-publish":true,"permalink":"/than-kinh/tiep-can-dau-dau/","tags":["cephalgia"],"noteIcon":"1","created":"2025-09-03T21:34:51.317+07:00","updated":"2025-09-05T16:12:09.009+07:00"}
 ---
 
 

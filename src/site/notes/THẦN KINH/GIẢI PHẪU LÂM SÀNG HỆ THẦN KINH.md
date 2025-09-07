@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/than-kinh/giai-phau-lam-sang-he-than-kinh/","created":"2025-08-25T10:22:57.540+07:00","updated":"2025-08-28T22:20:24.327+07:00"}
+{"dg-publish":true,"permalink":"/than-kinh/giai-phau-lam-sang-he-than-kinh/","noteIcon":"1","created":"2025-08-25T10:22:57.540+07:00","updated":"2025-08-28T22:20:24.327+07:00"}
 ---
 
 

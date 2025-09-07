@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-sheet/than-kinh/","created":"2025-08-25T10:15:52.749+07:00","updated":"2025-09-06T17:51:18.014+07:00"}
+{"dg-publish":true,"permalink":"/main-sheet/than-kinh/","noteIcon":"1","created":"2025-08-25T10:15:52.749+07:00","updated":"2025-09-06T17:51:18.014+07:00"}
 ---
 
 # Cơ sở

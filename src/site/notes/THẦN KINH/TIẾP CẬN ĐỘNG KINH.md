@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/than-kinh/tiep-can-dong-kinh/","tags":["seizure","epilepsy"],"created":"2025-09-05T20:50:48.240+07:00","updated":"2025-09-07T14:39:14.864+07:00"}
+{"dg-publish":true,"permalink":"/than-kinh/tiep-can-dong-kinh/","tags":["seizure","epilepsy"],"noteIcon":"1","created":"2025-09-05T20:50:48.240+07:00","updated":"2025-09-07T14:39:14.864+07:00"}
 ---
 
 📚 Tài liệu tham khảo

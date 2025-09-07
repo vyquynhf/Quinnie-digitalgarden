@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/than-kinh/con-duong-cam-giac-dau/","tags":["#pain"],"created":"2025-08-17T22:30:15.287+07:00","updated":"2025-09-02T22:33:30.634+07:00"}
+{"dg-publish":true,"permalink":"/than-kinh/con-duong-cam-giac-dau/","tags":["#pain"],"noteIcon":"1","created":"2025-08-17T22:30:15.287+07:00","updated":"2025-09-02T22:33:30.634+07:00"}
 ---
 
 📚 Tài liệu tham khảo 

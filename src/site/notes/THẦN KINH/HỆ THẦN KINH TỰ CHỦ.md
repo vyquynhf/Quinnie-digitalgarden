@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/than-kinh/he-than-kinh-tu-chu/","created":"2025-08-27T15:37:18.329+07:00","updated":"2025-09-03T09:35:36.217+07:00"}
+{"dg-publish":true,"permalink":"/than-kinh/he-than-kinh-tu-chu/","noteIcon":"1","created":"2025-08-27T15:37:18.329+07:00","updated":"2025-09-03T09:35:36.217+07:00"}
 ---
 
 
