@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-storage/tong-hop-module/module-ho-hap/module-ho-hap/","noteIcon":"1","created":"2024-08-07T15:02:09.549+07:00","updated":"2025-12-28T15:00:57.694+07:00"}
+{"dg-publish":true,"permalink":"/data-storage/tong-hop-module/module-ho-hap/module-ho-hap/","noteIcon":"1","created":"2024-08-07T15:02:09.549+07:00","updated":"2025-12-28T19:15:11.924+07:00"}
 ---
 
 # Tiếp cận
@@ -12,6 +12,7 @@
 [[DATA STORAGE/NỘI/2. HÔ HẤP/Bệnh lý màng phổi\|Bệnh lý màng phổi]]
 [[DATA STORAGE/NỘI/2. HÔ HẤP/Tràn khí màng phổi\|Tràn khí màng phổi]]
 [[DATA STORAGE/NỘI/2. HÔ HẤP/Tràn dịch màng phổi\|Tràn dịch màng phổi]]
+[[Nhiễm khuẩn hô hấp dưới cấp tính mắc phải trong cộng đồng\|Nhiễm khuẩn hô hấp dưới cấp tính mắc phải trong cộng đồng]]
 # Cận lâm sàng
 [[DATA STORAGE/TỔNG HỢP MODULE/MODULE HÔ HẤP/Hô hấp ký\|Hô hấp ký]]
 [[DATA STORAGE/KỸ NĂNG LÂM SÀNG/Cách đọc X-Quang ngực trong hô hấp\|Cách đọc X-Quang ngực trong hô hấp]]
