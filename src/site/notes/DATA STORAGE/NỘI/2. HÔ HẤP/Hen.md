@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/data-storage/noi/2-ho-hap/hen/","noteIcon":"1","created":"2023-12-13T21:51:35.688+07:00","updated":"2025-12-28T15:22:49.629+07:00"}
+{"dg-publish":true,"permalink":"/data-storage/noi/2-ho-hap/hen/","noteIcon":"1","created":"2023-12-13T21:51:35.688+07:00","updated":"2025-12-30T20:23:45.691+07:00"}
 ---
 
 
 📚 Tài liệu tham khảo 
 - Sách triệu chứng Nội PNT 
+- Sách tiếp cận chẩn đoán bệnh nội khoa YDS 2022
 - BYT 2020 CHẨN ĐOÁN VÀ ĐIỀU TRỊ HEN PHẾ QUẢN NGƯỜI ỚN VÀ TRẺ EM ≥ 12 TUỔI
 - GINA 2023
 # 1 Đại cương
@@ -50,6 +51,15 @@ Hiện tượng tắc nghẽn phế quản là do 3 yếu tố chính: <font col
 ![](https://i.imgur.com/oqW1hnv.png)
 - 🌱 **NO**: <font color="#c00000">Nồng độ trong hơi thở cao</font> hơn ở bệnh nhân hen → <font color="#c00000">giãn mạch</font> máu phế quản 👉 *Ứng dụng*: nồng độ NO thở ra được dùng để chẩn đoán và theo dõi hen. 
 # 3 Lâm sàng 
+
+> [!warning] Đặc điểm của triệu chứng hô hấp nghĩ đến hen
+> - Nhiều hơn 1 triệu chứng hô hấp (khò khè, ho, khó thở, nặng ngực)
+> - Các triệu chứng thay đổi theo thời gian và độ nặng
+> - Các triệu chứng khởi phát do nhiễm siêu vi, vận động, tiếp xúc dị nguyên, thay đổi thời tiết, cười, khói xe, khói thuốc, mùi nặng
+> - Xác định giới hạn luồng khí thở ra dao động
+> - Ghi nhận có sự thay đổi chức năng hô hấp quá mức và giới hạn luồng khí
+
+
 - **Thở nhanh** (thở ngắn): đặc biệt khi gắng sức hoặc vào buổi tối
 - **Thở khò khè**: nghe có tiếng <font color="#c00000">rít khi thở ra</font>
 - **Ho**: có thể kéo dài, thường nhiều vào <font color="#c00000">ban đêm và sáng sớm</font>, xuất hiện khi thời tiết lạnh, khô hoặc khi tập thể dục. 
@@ -124,7 +134,7 @@ Hiện tượng tắc nghẽn phế quản là do 3 yếu tố chính: <font col
 - Đánh giá tình trạng suy hô hấp cấp, bình thường giữa các cơn hen
 - <font color="#c00000">PaO2 ↓ và PaCO2 ↑</font> trong cơn hen nặng và ác tính
 
-# 5 CHẨN ĐOÁN
+# 5 Chẩn đoán
 **Δ: [Biến chứng], cơn hen cấp, [mức độ], [yếu tố thúc đẩy] / Hen + kiểm soát, [các yếu tố nguy cơ] (dễ vào cơn hen, dễ tắc nghẽn cố định, dễ tử vong)**
 <u>Ví dụ:</u> Suy hô hấp cấp giảm oxy máu, cơn hen cấp, mức độ nặng, viêm phế quản cấp do siêu vi/ Hen không kiểm soát, béo phì, dị ứng thịt bò, viêm mũi dị ứng, không tuân thủ điều trị, tăng Eosinophile
 
@@ -187,11 +197,11 @@ Các nội dung cần đánh giá
 ## 6.2 Kiểm soát hen
 ### 6.2.1 Tình trạng kiểm soát hen
 - Đánh giá trung bình mỗi 3 tháng điều trị với thuốc tác dụng dài. 
-- Các yếu tố
+- Trong 4 tuần qua, người bệnh có tiêu chuẩn nào sau đây không?
 	- Khó thở ban ngày > 2 lần/tuần
-	- Có cơn khó thở ban đêm ảnh hưởng giấc ngủ
+	- Có cơn khó thở ban đêm ảnh hưởng giấc ngủ *(thức giấc về đêm do hen)*
 	- Có giới hạn vận động 
-	- Dùng thuốc DPQ tác dụng ngắn > 2 lần/tuần
+	- Dùng thuốc DPQ tác dụng ngắn *(cắt cơn )*> 2 lần/tuần
 - Đánh giá:
 	- Không có yếu tố nào: hen kiểm soát tốt
 	- Có 1-2 yếu tố: hen kiểm soát 1 phần
@@ -202,19 +212,18 @@ Các nội dung cần đánh giá
 - **Hen trung bình:** khi bệnh nhân đang được kiểm soát ở bậc điều trị 3 
 - **Hen nặng:** khi bệnh nhân phải được sử dụng bậc 4, 5 trong điều trị kiểm soát mới kiểm soát được hoặc vẫn không kiểm soát được triệu chứng
 - **Hen khó trị**: hen không kiểm soát dù điều trị bậc 4,5
-# 7 Các yếu tố nguy cơ
+# 7 Đánh giá nguy cơ tương lai
 ## 7.1 Gây đợt cấp
 - 💊 <font color="#c00000">Thuốc</font>
 	- Sử dụng SABA (short-acting β agonist) liều cao (>200 nhát xịt/tháng) <font color="#a5a5a5">(6-7 nhát/ngày)</font>
-	- ICS (inhaled corticosteroids) không đủ liều
-	- ICS không được kê toa
-	- Tuân thủ kém
-	- Kỹ thuật hít không đúng
+	- ICS không đủ liều, không được kê toa, tuân thủ kém, kỹ thuật hít không đúng
 - <font color="#c00000">FEV1</font><60% GTTĐ
 - <font color="#c00000">Phơi nhiễm</font> thuốc lá, dị nguyên, ô nhiễm không khí
 - Đồng mắc: béo phì, viêm mũi xoang, GERD, dị ứng thức ăn, mang thai, trầm cảm
 - Từng nằm khoa <font color="#ff0000">hồi sức cấp cứu </font> vì hen, từng đặt nội khí quản
 - ⩾ 1 <font color="#ff0000">cơn hen nặng</font> trong 12 tháng qua
+- Hoàn cảnh: vấn đề tâm lý, xã hội, kinh tế
+- Tăng EOS máu, FENO
 ## 7.2 Tắc nghẽn cố định 
 - Không đủ liều corticosteroid 
 - Tiếp xúc dị nguyên lâu dài, hút thuốc lá, phơi nhiễm nghề nghiệp

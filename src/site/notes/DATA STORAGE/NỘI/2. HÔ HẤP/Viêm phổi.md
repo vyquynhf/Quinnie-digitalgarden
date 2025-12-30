@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-storage/noi/2-ho-hap/viem-phoi/","tags":["pneumonia"],"noteIcon":"1","created":"2023-12-30T19:01:09.273+07:00","updated":"2025-09-09T22:58:46.302+07:00"}
+{"dg-publish":true,"permalink":"/data-storage/noi/2-ho-hap/viem-phoi/","tags":["pneumonia"],"noteIcon":"1","created":"2023-12-30T19:01:09.273+07:00","updated":"2025-12-29T20:28:14.995+07:00"}
 ---
 
 📚 Tài liệu tham khảo
@@ -156,8 +156,8 @@ Khác với các vi khuẩn, viêm phổi do tụ cầu thường là cả 2 bê
 	- Confusion : lú lẫn
 	- Ure máu >7mmol/L (20mg/dL)
 	- Respiratory rate ≥ 30 lần/phút
-	- Blood pressure : tâm thu < 90 hoặc tâm trương ≤ 60
-	- ⩾ 65 tuổi
+	- Blood pressure : tâm thu ≤ 90 hoặc tâm trương ≤ 60
+	- > 65 tuổi
 - Quyết định điều trị
 	- 0-1 điểm: mức độ nhẹ → ngoại trú
 	- <font color="#ff0000">2 điểm: trung bình → nội trú ngắn hạn hoặc ngoại trú có kiểm soát, cân nhắc nhập viện </font>

@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/nhiem-khuan-ho-hap-duoi-cap-tinh-mac-phai-trong-cong-dong/","noteIcon":"1","created":"2025-12-28T19:07:21.425+07:00","updated":"2025-12-29T19:44:28.794+07:00"}
+{"dg-publish":true,"permalink":"/nhiem-khuan-ho-hap-duoi-cap-tinh-mac-phai-trong-cong-dong/","noteIcon":"1","created":"2025-12-28T19:07:21.425+07:00","updated":"2025-12-29T19:49:13.153+07:00"}
 ---
 
+📚 Tài liệu tham khảo 
+- Tiếp cận chẩn đoán bệnh nội khoa (YDS) 2022
 ![Nhiễm khuẩn hô hấp dưới cấp tính mắc phải trong cộng đồng-1767012115363.jpeg|550](/img/user/image/Nhi%E1%BB%85m%20khu%E1%BA%A9n%20h%C3%B4%20h%E1%BA%A5p%20d%C6%B0%E1%BB%9Bi%20c%E1%BA%A5p%20t%C3%ADnh%20m%E1%BA%AFc%20ph%E1%BA%A3i%20trong%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng-1767012115363.jpeg)
 # 1 Đại cương
 - NKHHD là nhiễm khuẩn xảy ra ở đường hô hấp **dưới dây thanh** (khí quản, phế quản, nhu mô phổi)

@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/data-storage/noi/2-ho-hap/copd/","noteIcon":"1","created":"2023-12-16T14:34:55.750+07:00","updated":"2025-12-28T15:22:30.582+07:00"}
+{"dg-publish":true,"permalink":"/data-storage/noi/2-ho-hap/copd/","noteIcon":"1","created":"2023-12-16T14:34:55.750+07:00","updated":"2025-12-30T20:12:51.022+07:00"}
 ---
 
 
 📚 **TÀI LIỆU THAM KHẢO** 
 - Slide
 - Sách Nội PNT
+- Sách tiếp cận chẩn đoán bệnh nội khoa YDS 2022
 - Phác đồ BYT 2023
-# 1 ĐỊNH NGHĨA 
+# 1 Định nghĩa 
 - <font color="#ff0000">Bệnh lý đa kiểu hình</font>:
 	- Nhiều yếu tố nguy cơ
 	- Bất thường đường dẫn khí và / hoặc phế nang:
@@ -15,7 +16,7 @@
 		- Bất thường phế nang đơn thuần: khí phế thủng
 		- Hoặc bất thường cả 2  
 - Có<font color="#ff0000"> đáp ứng viêm mạn tính</font> ở các đường dẫn khí và phổi đối với các chất khí hay các phần tử độc hại.
-# 2 YẾU TỐ NGUY CƠ
+# 2 Yếu tố nguy cơ
 COPD là hậu quả của sự tác động qua lại của: Yếu tố di truyền (Gene), môi trường (Environment) diễn ra theo thời gian (Time)
 ## 2.1 Di truyền
 - Là yếu tố<font color="#ff0000"> đa gen</font> 
@@ -36,13 +37,13 @@ COPD là hậu quả của sự tác động qua lại của: Yếu tố di truy
 - ⚠️ **Tình trạng kinh tế xã hội thấp**
 - ⚠️ **Hen/ tăng phản ứng phế quản**: người mắc bệnh <font color="#ff0000">hen có nguy cơ mắc COPD</font> cao hơn 12 lần 
 - ⚠️ **Viêm phế quản mạn**: ho mạn tính, khạc đàm trong vòng 3 tháng liên tiếp/năm trong 2 năm
-# 3 GIẢI PHẪU BỆNH
+# 3 Giải phẫu bệnh
 Tổn thương giải phẫu: các <font color="#ff0000">đường dẫn khí, nhu mô phổi, mạch máu</font> phổi
 - Đường dẫn khí ở người bình thường : thành mỏng, lòng thông thoáng, các phế nang liên kết với thành phế quản
 - Đường dẫn khí ở người COPD: thành dày, niêm mạc phù nề, hẹp lòng dẫn khí, có nhầy trong lòng dẫn khí, mất liên kết với phế nang. 
 ![](https://i.imgur.com/iCSPMQL.png)
 
-# 4 SINH LÝ BỆNH
+# 4 Sinh lý bệnh
 
 ## 4.1 Phản ứng viêm trong COPD
 - Đáp ứng viêm có thể phá hủy nhu mô phổi dẫn đến <font color="#ff0000">khí phế thũng</font>, phá hủy yếu tố bảo vệ và tự sửa chữa dẫn đến <font color="#ff0000">xơ hóa đường thở nhỏ</font>
@@ -80,14 +81,24 @@ Tổn thương giải phẫu: các <font color="#ff0000">đường dẫn khí, n
  - Kéo dài → Tuyến nhầy phì đại, phì đại thành đường dẫn khí → Ho khạc đàm tiến triển
  - **Bệnh nhân thường ho, khạc đàm nhiều vào buổi sáng** vì buổi tối nằm ngủ lông chuyển không đẩy đàm lên, đàm bị ứ đọng lại ở phổi
  - <font color="#ff0000">Cơ chế khó thở:</font> Phế nang không có tuyến nhày, dãn và ứ khí → không đẩy khí ra ngoài được → Khí trong phế nang là khí cũ → Khó thở
-# 5 CHẨN ĐOÁN
+# 5 Chẩn đoán
 **Δ: Biến chứng, đợt cấp COPD, mức độ, yếu tố thúc đẩy / COPD GOLD, nhóm, bệnh kèm theo**
 <u>Ví dụ</u>: SHH giảm oxy máu, đợt cấp COPD, yếu tố thúc đẩy là VPCĐ / COPD GOLD 3 nhóm B, suy dinh dưỡng, túi khí ở đáy phổi T, tiền căn lao phổi cũ, theo dõi u phổi
 
-| Tầm soát COPD ở cộng đồng (theo GOLD)                                                                                                                                                                                                                             |                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| 1. Ông/bà có ho vài lần trong ngày ở hầu hết các ngày<br>2. Ông/bà có khạc đàm ở hầu hết các ngày?<br>3. Ông/bà có dễ bị khó thở hơn những người cùng tuổi hoặc khó thở hơn trước đây?<br>4. Ông/bà có trên 40 tuổi?<br>5. Ông/bà đang hoặc đã từng hút thuốc lá? | Trả lời có 3/5 → Nên được đo chức năng hô hấp |
-
+| Tầm soát COPD ở cộng đồng (theo GOLD)                                                                                                                                                                                                                             |                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 1. Ông/bà có ho vài lần trong ngày ở hầu hết các ngày<br>2. Ông/bà có khạc đàm ở hầu hết các ngày?<br>3. Ông/bà có dễ bị khó thở hơn những người cùng tuổi hoặc khó thở hơn trước đây?<br>4. Ông/bà có trên 40 tuổi?<br>5. Ông/bà đang hoặc đã từng hút thuốc lá? | Trả lời có 3/5 → Nên được đo chức năng hô hấp ký để xác nhận chẩn đoán.  |
+Ngoài ra, theo sách YDS, nếu người bệnh <font color="#ff0000">> 40 tuổi</font>, có bất kỳ yếu tố nào sau đây thì xem xét chẩn đoán COPD, càng nhiều yếu tố càng tăng khả năng chẩn đoán: 
+- **Khó thở:** dai dẳng, tiến triển theo thời gian, nặng lên khi gắng sức
+- **Ho mạn:** có thể ngắt quãng, có thể ho khan, khò khè tái đi tái lại
+- **Khạc đàm mạn:** bất kỳ kiểu khạc đàm mạn nào đều có thể là COPD
+- **Nhiễm khuẩn hô hấp dưới** tái đi tái lại
+- **Bệnh sử có yếu tố nguy cơ**
+- **Ký chủ:** gen, bất thường bẩm sinh/trong quá trình phát triển
+    - Hút thuốc lá
+    - Khói nấu ăn, chất đốt
+    - Bụi nghề nghiệp, chất hơi, khói, khí và hóa chất khác
+    - Tiền sử gia đình COPD và/hoặc các yếu tố thời niên thiếu: nhẹ cân lúc sinh, nhiễm khuẩn hô hấp lúc nhỏ,...
 ## 5.1 Tiền căn
   - Tiền căn tiếp xúc với các yếu tố nguy cơ của bệnh
 	 - Hút thuốc lá, thuốc lào: cả chủ động và thụ động
@@ -142,7 +153,7 @@ Tổn thương giải phẫu: các <font color="#ff0000">đường dẫn khí, n
 	- Có thể phát hiện sớm bằng siêu âm tim 
 - Tràn khí màng phổi
 - <font color="#ff0000">Biến chứng điều trị: </font>hội chứng Cushing do thuốc
-# 6 CẬN LÂM SÀNG
+# 6 Cận lâm sàng
 - Nhóm thường quy: CTM, chức năng gan thận, ion đồ, đường huyết, TPTNT, X-quang, ECG
 - Nhóm chẩn đoán và điều trị
 	- Suy hô hấp → KMĐM 
@@ -186,7 +197,7 @@ Tổn thương giải phẫu: các <font color="#ff0000">đường dẫn khí, n
 - Là tiêu chuẩn vàng chẩn đoán 
 - Chẩn đoán xác định khi: rối loạn thông khí tắc nghẽn không hồi phục hoàn toàn sau test hồi phục phế quản: chỉ số FEV1/FVC (Gansler) < 70% sau test HPPQ.
 + Thông thường bệnh nhân BPTNMT sẽ có kết quả test HPPQ âm tính (chỉ số FEV1 tăng < 12% và < 200ml sau test hồi phục phế quản).
-# 7 CHẨN ĐOÁN PHÂN BIỆT 
+# 7 Chẩn đoán phân biệt 
 ## 7.1 Suy tim ứ huyết
 | Suy tim ứ huyết                                              | COPD                                                       |
 | ------------------------------------------------------------ | ---------------------------------------------------------- |
@@ -225,14 +236,14 @@ Tổn thương giải phẫu: các <font color="#ff0000">đường dẫn khí, n
 | Khí máu động mạch                      | Bình thường giữa các cơn hen                                                                                         | Thường bất thường                                                                        |
 | FeNO                                   | > 50 ppb ở người không hút thuốc lá gợi ý viêm đường dẫn khí tăng eosinophil                                         | Bình thường, thấp ở người hút thuốc lá                                                   |
 | Eosinophil máu tăng > 300 TB/µL        | Gợi ý chẩn đoán hen                                                                                                  | Có thể tăng trong đợt cấp                                                                |
-# 8 ĐÁNH GIÁ COPD
+# 8 Đánh giá COPD ổn định
 Xác định <font color="#ff0000">mức độ nặng</font> của bệnh, cụ thể là 
 - Mức độ các **triệu chứng hiện tại** của bệnh nhân  
 - Độ nặng theo **kết quả hô hấp ký**  
 - Tần suất các **đợt kịch phát**  
 - Sự hiện diện của **bệnh đồng mắc**
 ## 8.1 Đánh giá giới hạn lưu lượng khí
-🏖 Sau khi xác định chẩn đoán bằng kết quả hô hấp ký : **FEV1/FVC < 0,70**, đánh giá <font color="#ff0000">dựa vào FEV1</font>
+🏖 Sau khi xác định chẩn đoán bằng kết quả hô hấp ký : **FEV1/FVC (sau test giãn phế quản) < 0,70**, đánh giá <font color="#ff0000">dựa vào FEV1</font> (sau test)
 **GOLD 1:** Nhẹ FEV1 ⩾  80% predicted  
 **GOLD 2:** Trung bình 50% ⩽  FEV1 < 80% predicted  
 **GOLD 3:** Nặng 30% ⩽  FEV1 < 50% predicted  
@@ -266,7 +277,7 @@ Dựa vào <font color="#ff0000">tiền căn</font> các đợt kịch phát, n�
 - <font color="#ff0000">Các nhiễm trùng nặng:</font> đặc biệt là nhiễm trùng hô hấp.  
 - <font color="#ff0000">Hội chứng chuyển hóa và đái tháo đường</font>
 - <font color="#ff0000">Trào ngược dạ dày thực quản</font>
-# 9 ĐỢT CẤP COPD
+# 9 Đợt cấp COPD
 ## 9.1 Tổng quan
 - **Định nghĩa:** Là tình trạng cấp tính được đặc trưng bởi sự nặng lên của các triệu chứng hô hấp:
 	- Thay đổi tính chất đàm: đàm mủ, lượng đàm tăng
@@ -336,7 +347,7 @@ Dựa vào <font color="#ff0000">tiền căn</font> các đợt kịch phát, n�
 - Đang dùng corticosteroids đường toàn thân
 - Có giãn phế quản trên X-quang hoặc CT ngực
 - COPD nặng (FEV1 < 50%)
-# 10 ĐIỀU TRỊ 
+# 10 Điều trị 
 Điều trị dùng thuốc và điều trị không dùng thuốc (GOLD)
 [[DATA STORAGE/ĐỢT 2/ĐIỀU TRỊ NỘI/Điều trị COPD\|Điều trị COPD]]
  
