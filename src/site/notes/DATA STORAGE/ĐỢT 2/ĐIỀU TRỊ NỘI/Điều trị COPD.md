@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-storage/dot-2/dieu-tri-noi/dieu-tri-copd/","noteIcon":"1","created":"2024-11-26T06:39:47.253+07:00","updated":"2025-12-28T15:24:02.613+07:00"}
+{"dg-publish":true,"permalink":"/data-storage/dot-2/dieu-tri-noi/dieu-tri-copd/","noteIcon":"1","created":"2024-11-26T06:39:47.253+07:00","updated":"2025-12-30T22:57:18.411+07:00"}
 ---
 
 [[DATA STORAGE/NỘI/2. HÔ HẤP/COPD\|COPD]]
@@ -89,11 +89,11 @@ Bổ sung dinh dưỡng cho người suy dinh dưỡng và giảm cân đối v�
 - Thuốc giảm ho không khuyến cáo
 - COPD mọi giai đoạn nên tập VLTL và PHCN ít nhất 6 tuần
 ## 3.2 Chế độ điều trị thuốc ban đầu
-| Nhóm GOLD | Khởi trị gợi ý                                 |
-| --------- | ---------------------------------------------- |
-| **A**     | SABA hoặc LABA hoặc LAMA (ưu tiên LAMA)        |
-| **B**     | LABA + LAMA                                    |
-| **E**     | LABA + LAMA; nếu eos ≥ 300 → thêm ICS (triple) |
+| Nhóm GOLD | Khởi trị gợi ý                                                 |
+| --------- | -------------------------------------------------------------- |
+| **A**     | 1 thuốc giãn phế quản (SABA hoặc LABA hoặc LAMA, ưu tiên LAMA) |
+| **B**     | LABA + LAMA                                                    |
+| **E**     | LABA + LAMA; nếu eos ≥ 300 → thêm ICS (triple)                 |
 
 ## 3.3 Theo dõi điều trị 
 ### 3.3.1 Đánh giá bước đầu 
@@ -113,8 +113,8 @@ Bổ sung dinh dưỡng cho người suy dinh dưỡng và giảm cân đối v�
 - Ở bệnh nhân khởi phát đợt cấp dai dẳng khi điều trị với 1 thuốc giãn phế quản đơn độc → phối hợp ==LAMA + LABA==; hoặc phối hợp 3 thuốc ==LAMA + LABA + ICS== nếu BCAT ≥ 300 hoặc sau khi dùng LAMA + LABA mà BCAT ≥ 100
 - Xem xét xuống thang ICS nếu viêm phổi hoặc có tác dụng phụ (nếu BCAT ≥ 300, xuống thang thường làm tiến triển đợt kịch phát) 
 - Ở BN đang điều trị với LAMA + LABA + ICS hoặc LAMA + LABA (BCAT < 100) mà vẫn xuất hiện đợt kịch phát:  
-	+ Phối hợp thêm Roflumilast nếu FEV1 < 50% và viêm phế quản mạn  
-	+ Thêm macrolide: Azithromycin
+	+ Phối hợp thêm **Roflumilast** nếu FEV1 < 50% và viêm phế quản mạn  
+	+ Thêm macrolide: **Azithromycin** (ưu tiên cho người tiền căn hút thuốc lá)
 ## 3.4 Điều trị đợt cấp
 > [!warning] OSCE
 > - NIV + O2: mục tiêu SpO2 88-92% 
@@ -132,6 +132,9 @@ Bổ sung dinh dưỡng cho người suy dinh dưỡng và giảm cân đối v�
 - Là sự kiện trong diễn tiến tự nhiên, <u>gia tăng triệu chứng</u> cấp tính trong vòng 14 ngày làm <u>thay đổi điều trị thuốc hằng ngày</u> của BN.
 - <u>Nguyên nhân</u>: nhiễm trùng, ONMT, bỏ trị, dùng thuốc an thần (ức chế tình trạng hô hấp → ứ CO2), chẹn β không chọn lọc, suy tim, ...
 - Cần kiểm soát tốt các bệnh đi kèm
+
+**Phân loại độ nặng đợt cấp**
+![](https://i.imgur.com/37PFQDZ.png)
 ### 3.4.2 Nguyên tắc
 - Thở oxy nếu thiếu 
 - SABA (albuterol - ventolin) nên dùng, có thể phối hợp SAMA (Ipratropium)

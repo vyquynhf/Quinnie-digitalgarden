@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-storage/tong-hop-module/module-ho-hap/module-ho-hap/","noteIcon":"1","created":"2024-08-07T15:02:09.549+07:00","updated":"2025-12-29T21:03:50.180+07:00"}
+{"dg-publish":true,"permalink":"/data-storage/tong-hop-module/module-ho-hap/module-ho-hap/","noteIcon":"1","created":"2024-08-07T15:02:09.549+07:00","updated":"2025-12-30T23:29:34.013+07:00"}
 ---
 
 # Tiếp cận
@@ -23,3 +23,4 @@
 [[DATA STORAGE/ĐIỀU TRỊ/Điều trị viêm phổi\|Điều trị viêm phổi]]
 [[DATA STORAGE/ĐỢT 2/ĐIỀU TRỊ NỘI/Điều trị COPD\|Điều trị COPD]]
 [[DATA STORAGE/ĐỢT 2/ĐIỀU TRỊ NỘI/Điều trị hen\|Điều trị hen]]
+[[Tiếp cận điều trị hội chứng tắc nghẽn hô hấp dưới\|Tiếp cận điều trị hội chứng tắc nghẽn hô hấp dưới]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-storage/noi/2-ho-hap/hen/","noteIcon":"1","created":"2023-12-13T21:51:35.688+07:00","updated":"2025-12-30T20:23:45.691+07:00"}
+{"dg-publish":true,"permalink":"/data-storage/noi/2-ho-hap/hen/","noteIcon":"1","created":"2023-12-13T21:51:35.688+07:00","updated":"2025-12-30T21:40:23.368+07:00"}
 ---
 
 
@@ -175,19 +175,19 @@ Các nội dung cần đánh giá
 - Hen phải nhập viện: Trung bình
 - Có suy hô hấp → Nặng
 
-|Dấu hiệu|Cơn nhẹ - trung bình|Cơn nặng|Cơn ác tính (đe dọa tử vong)|
-|---|---|---|---|
-|**Tri giác**|Tỉnh|Bứt rứt|Lơ mơ, hôn mê|
-|**Da, niêm**|Hồng|Tím|Tím hoặc khó bắt|
-|**Mạch**|< 120 l/p|Nhanh|Nhẹ, khó bắt|
-|**HA tâm thu**|> 90 mmHg|< 90 mmHg|Khó đo|
-|**Mạch nghịch**|Không|Có thể|Có|
-|**Nhịp thở**|< 30 l/p|> 30 l/p|Thở chậm, ngưng thở|
-|**Cơ hô hấp phụ**|Co kéo nhẹ|Rất nhiều|Lồng ngực yên lặng|
-|**Rale ở phổi**|Rale ngáy, rít|Rất nhiều|Rì rào phế nang mất|
-|**PaO2**|> 60 mmHg|< 60 mmHg|Thông khí cơ học|
-|**PaCO2**|< 45 mmHg|> 45 mmHg||
-|**FEV1**|> 50%|30-50%|< 30%|
+| Dấu hiệu          | Cơn nhẹ - trung bình      | Cơn nặng                                               | Cơn ác tính (đe dọa tử vong)                    |
+| ----------------- | ------------------------- | ------------------------------------------------------ | ----------------------------------------------- |
+| **Tri giác**      | Tỉnh                      | Bứt rứt, kích thích                                    | <font color="#ff0000">Lơ mơ, hôn mê</font>      |
+| **Da, niêm**      | Hồng                      | Tím                                                    | Tím hoặc khó bắt                                |
+| **Mạch**          | < 120 l/p                 | Nhanh                                                  | Nhẹ, khó bắt                                    |
+| **HA tâm thu**    | > 90 mmHg                 | < 90 mmHg                                              | Khó đo                                          |
+| **Mạch nghịch**   | Không                     | Có thể                                                 | Có                                              |
+| **Nhịp thở**      | < 30 l/p                  | <font color="#ff0000">> 30 l/p</font>                  | Thở chậm, ngưng thở                             |
+| **Cơ hô hấp phụ** | Co kéo nhẹ                | Rất nhiều                                              | <font color="#ff0000">Lồng ngực yên lặng</font> |
+| **Rale ở phổi**   | Rale ngáy, rít            | Rất nhiều                                              | Rì rào phế nang mất                             |
+| **PaO2**          | > 60 mmHg<br>(SpO2 > 90%) | < 60 mmHg<br><font color="#ff0000">(SpO2 < 90%)</font> | Thông khí cơ học                                |
+| **PaCO2**         | < 45 mmHg                 | > 45 mmHg                                              |                                                 |
+| **FEV1**          | > 50%                     | 30-50%                                                 | < 30%                                           |
 ### 6.1.3 Yếu tố thúc đẩy vào cơn hen cấp
 - Nhiễm trùng hô hấp (ghi rõ tên bệnh ra luôn, ví dụ Viêm phế quản cấp do siêu vi)
 - Dị nguyên

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-storage/dot-2/dieu-tri-noi/dieu-tri-hen/","noteIcon":"1","created":"2024-11-30T06:27:42.124+07:00","updated":"2025-12-28T15:24:10.737+07:00"}
+{"dg-publish":true,"permalink":"/data-storage/dot-2/dieu-tri-noi/dieu-tri-hen/","noteIcon":"1","created":"2024-11-30T06:27:42.124+07:00","updated":"2025-12-30T23:26:52.431+07:00"}
 ---
 
 📚 Tài liệu tham khảo 
@@ -128,7 +128,8 @@ Budesonide (4.5µg) phối hợp Formoterol: hít 2 liều khi khó thở, tối
 - Không cắt cơn, chỉ giúp kiểm soát cơn hen khi BN có VMDU, hen liên quan gắng sức, có cơ địa béo phì, hút thuốc lá
 - Liều: 10mg/24 giờ
 # 4 Kiểm soát hen
-Vì sao phải kiểm soát hen? Vì nếu chỉ dùng SABA cắt cơn thì sẽ đem lại nhiều hậu quả bất lợi → Ưu tiên hàng đầu dùng ICS + formoterol để cắt cơn 
+Vì sao phải kiểm soát hen? Vì nếu chỉ dùng SABA cắt cơn thì sẽ đem lại nhiều hậu quả bất lợi → Ưu tiên hàng đầu dùng ICS + formoterol để cắt cơn.
+Nhớ ==khởi đầu điều trị sớm với ICS liều thấp sẽ cải thiện chức năng phổi tối hơn==. 
 ## 4.1 Phác đồ GINA 2022
 - **Chẩn đoán**
 	- [[DATA STORAGE/NỘI/2. HÔ HẤP/Hen#8.1. Tình trạng kiểm soát hen\|Mức độ kiểm soát]]
@@ -165,21 +166,29 @@ Vì sao phải kiểm soát hen? Vì nếu chỉ dùng SABA cắt cơn thì sẽ
 ## 4.4 Các bậc điều trị 
 
 
-|                              | Bậc 1                                                         | Bậc 2 (most used)                                                            | Bậc 3                                                                                                                         | Bậc 4                                                                                               |
-| ---------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| Đối tượng                    | BN khó thở không thường xuyên (< 2l/m) + nguy cơ đợt cấp thấp | BN có triệu chứng hen hoặc dùng thuốc cắt cơn ≥ 2l/m nhưng ít hơn 4-5 ngày/w | - BN có cơn hen hầu hết các ngày, thức giấc vì khó thở > 1l/w, có nhiều yếu tố nguy cơ<br>- BN đáp ứng kém với điều trị bậc 2 | - BN khám lần đầu với cơn hen nặng hoặc cơn kịch phát<br>- BN đáp ứng kém với điều trị bậc 3 sau 3m |
-| Thuốc kiểm soát hen ưu tiên  | ICS + formoterol liều thấp khi cần                            | ICS + formoterol liều thấp khi cần                                           | ICS + formoterol liều thấp duy trì                                                                                            | ICS + formoterol liều trung bình duy trì                                                            |
-| Thuốc cắt cơn hen ưu tiên    | ICS + formoterol liều thấp khi cần<br>                        | ICS + formoterol khi cần<br>                                                 | ICS-formoterol hoặc SABA<br>- hoặc ICS liều TB + SABA khi cần<br>                                                             | ICS + formoterol liều thấp khi cần <br>- ICS liều cao + Tiotropium/kháng leukotrinene/theophyllin   |
-| Thuốc kiểm soát hen thay thể | SABA + ICS khi cần                                            | ICS liều thấp duy trì                                                        | ICS liều thấp + LABA duy trì                                                                                                  | ICS liều trung bình/cao + LABA duy trì                                                              |
-| Thuốc cắt cơn hen thay thế   | SABA + ICS khi cần                                            | SABA + ICS khi cần                                                           | SABA + ICS khi cần                                                                                                            | SABA + ICS khi cần                                                                                  |
+|                              | Bậc 1                                                                                         | Bậc 2 (most used)                                                            | Bậc 3                                                                                                                         | Bậc 4                                                                                               |
+| ---------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Đối tượng                    | BN khó thở không thường xuyên (< 2l/m) + nguy cơ đợt cấp thấp (không có đợt cấp/12 tháng qua) | BN có triệu chứng hen hoặc dùng thuốc cắt cơn ≥ 2l/m nhưng ít hơn 4-5 ngày/w | - BN có cơn hen hầu hết các ngày, thức giấc vì khó thở > 1l/w, có nhiều yếu tố nguy cơ<br>- BN đáp ứng kém với điều trị bậc 2 | - BN khám lần đầu với cơn hen nặng hoặc cơn kịch phát<br>- BN đáp ứng kém với điều trị bậc 3 sau 3m |
+| Thuốc kiểm soát hen ưu tiên  | ICS + formoterol liều thấp khi cần                                                            | ICS + formoterol liều thấp khi cần                                           | ICS + formoterol liều thấp duy trì                                                                                            | ICS + formoterol liều trung bình duy trì                                                            |
+| Thuốc cắt cơn hen ưu tiên    | ICS + formoterol liều thấp khi cần<br>                                                        | ICS + formoterol khi cần<br>                                                 | ICS-formoterol hoặc SABA<br>- hoặc ICS liều TB + SABA khi cần<br>                                                             | ICS + formoterol liều thấp khi cần <br>- ICS liều cao + Tiotropium/kháng leukotrinene/theophyllin   |
+| Thuốc kiểm soát hen thay thể | SABA + ICS khi cần                                                                            | ICS liều thấp duy trì                                                        | ICS liều thấp + LABA duy trì                                                                                                  | ICS liều trung bình/cao + LABA duy trì                                                              |
+| Thuốc cắt cơn hen thay thế   | SABA + ICS khi cần                                                                            | SABA + ICS khi cần                                                           | SABA + ICS khi cần                                                                                                            | SABA + ICS khi cần                                                                                  |
+Dành cho hen nặng, khó kiểm soát dù đã tuân thủ đúng Bước 4
+- **Đánh giá chuyên gia:** Chuyển bệnh nhân lên tuyến chuyên khoa để khảo sát chuyên sâu và xác định kiểu hình hen.
+- **Các lựa chọn bổ sung:**
+    - **ICS liều cao – LABA:** Tuy nhiên cần thận trọng vì tăng nguy cơ tác dụng phụ (như suy tuyến thượng thận).
+    - **Thêm thuốc hỗ trợ:** LAMA, Azithromycin (3 lần/tuần) hoặc LTRA/theophyllin.
+    - **Liệu pháp sinh học:** Các thuốc kháng kháng thể như anti-IgE, anti-IL5/5R, anti-IL4R.
+    - **Can thiệp:** Tạo hình nhiệt phế quản tùy tình trạng người bệnh.
+
 - ICS liều thấp hàng ngày không còn được khuyến cáo ở Bậc 1, vì bệnh nhân có triệu chứng ít hơn hai lần một tháng không có khả năng sử dụng ICS thường xuyên, khiến bệnh nhân phải đối mặt với những rủi ro khi điều trị SABA đơn độc
 - Dùng khi cần: dùng 1 liều ICS - formoterol, để cắt cơn, trước khi vận động hoặc trước khi phơi nhiễm dị nguyên
 - Tổng liều Budesonide - formoterol (ngừa cơn lẫn cắt cơn không được quá 12 liều/ngày ở người lớn
 - Liều ICS (mg)
 	- Budesonide: thấp 200-400, TB 400-800, cao > 800
 	- Fluticasone: thấp 100-250, TB 250-500, cao > 500
-
 ## 4.5 Đánh giá bậc điều trị
+- Ở mỗi lần tái khám cần đánh giá mức độ kiểm soát hen, kĩ thuật hít thuốc, tuân thủ điều trị. 
 - BN cần được duy trì bậc điều trị <font color="#ff0000">khoảng 3m</font> 
 - Giảm bậc
 	- Hạ bậc điều trị khi việc kiểm soát tốt được duy trì trong 3 tháng
@@ -193,26 +202,27 @@ Vì sao phải kiểm soát hen? Vì nếu chỉ dùng SABA cắt cơn thì sẽ
 		- Chẩn đoán hen có chắc chắn không
 		- Loại bỏ YTNC, điều trị bệnh đồng mắc 
 	- Có thể tăng liều ngắn hạn khi có yếu tố thúc đẩy vào cơn hen như nhiễm trùng
-# 5 Tình trạng kém tuân thủ điều trị
-- Bệnh nhân hen có tỉ lệ tuân thủ điều trị thấp (55%) so với các bệnh lý mạn tính khác 
-- Kém tuân thủ điều trị ở bệnh nhân hen dẫn đến:  
-	- Tăng nguy cơ tử vong  
-	-  Tăng nhập viện  
-	-  Diễn tiến bệnh nặng hơn  
-	- Giảm chất lượng cuộc sống
+# 5 Các yếu tố góp phần làm hen không kiểm soát được
+- **Kĩ thuật hít không đúng:** 80% người bệnh (yêu cầu người bệnh biểu diễn)
+- **Tuân thủ điều trị dưới mức tối ưu:** 75% người bệnh hen. Hỏi người bệnh về rào cản khi sử dụng thuốc bao gồm cả chi phí, quan ngại về sự cần thiết và tác dụng phụ.
+- **Bệnh đồng mắc:** như lo lắng, trầm cảm, béo phì, viêm mũi xoang mạn tính, tắc nghẽn thanh quản cảm ứng (thường biết đến là VCD), GERD, COPD, ngưng thở lúc ngủ do tắc nghẽn, giãn phế quản, bệnh lý tim mạch, gù do loãng xương.
+- **Các yếu tố nguy cơ và khởi kích có thể điều chỉnh được:** hút thuốc lá, tiếp xúc với môi trường khói thuốc lá, tiếp xúc với môi trường khác tại nhà và nơi làm việc bao gồm dị ứng nguyên, ô nhiễm trong nhà và ngoài nhà, các hóa chất độc hại và các thuốc như ức chế beta hoặc các thuốc kháng viêm non-streroid (NSAID).
+- **Sử dụng SABA thường xuyên hoặc quá mức:** làm giảm điều hòa và kém đáp ứng với thụ thể beta dẫn đến cần phải sử dụng nhiều hơn. Ngưng đột ngột SABA có thể dẫn đến mất kiểm soát hen. Sử dụng quá mức có thể bị lệ thuộc. Sử dụng ≥ 3 lọ SABA/1 năm liên quan đến tăng nguy cơ khám cấp cứu và nhập viện độc lập với độ nặng. 
+- **Lo lắng, trầm cảm và các vấn đề kinh tế xã hội.**
+- **Tác dụng phụ của thuốc:** tác dụng toàn thân đặc biệt khi sử dụng OCS thường xuyên hoặc kéo dài hoặc sử dụng ICS liều cao kéo dài có thể góp phần vào chất lượng cuộc sống kém và tăng khả năng tuân thủ kém. 
 # 6 Điều trị yếu tố nguy cơ
 
-|**Yếu tố nguy cơ**|**Xử trí**|
-|---|---|
-|≥ 1 yếu tố nguy cơ (ngoại trừ không kiểm soát)|- Sử dụng ICS- Hướng dẫn BN hiểu kế hoạch điều trị- Khám thường xuyên hơn|
-|≥ 1 cơn hen nặng trong năm qua|- ICS phối hợp formoterol duy trì và cắt cơn- Tăng bậc điều trị- Tránh tối đa việc tiếp xúc dị nguyên|
-|Tiếp xúc thuốc lá|- Khuyên BN và gia đình ngừng thuốc lá và tránh tiếp xúc thuốc lá- Tăng liều ICS nếu hen không kiểm soát|
-|FEV1 thấp < 50% dự đoán|- Giữ liều cao ICS 3 tháng và/hoặc OCS 2 tuần- Phải loại trừ bệnh phổi tắc nghẽn mạn tính|
-|Béo phì|- Khuyên bệnh nhân giảm cân|
-|Rối loạn tâm thần|- Đánh giá tình trạng tâm thần- Phân biệt triệu chứng của hen và tình trạng hoảng loạn của BN|
-|Dị ứng thức ăn|- Tránh thức ăn gây dị ứng: đậu, hải sản- Epinephrine tiêm bắp|
-|Dị nguyên khác|- Tránh tiếp xúc tối đa|
-|Tăng eosinophil trong đàm|- Tăng liều ICS|
+| **Yếu tố nguy cơ**                             | **Xử trí**                                                                                               |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ≥ 1 yếu tố nguy cơ (ngoại trừ không kiểm soát) | - Sử dụng ICS- Hướng dẫn BN hiểu kế hoạch điều trị- Khám thường xuyên hơn                                |
+| ≥ 1 cơn hen nặng trong năm qua                 | - ICS phối hợp formoterol duy trì và cắt cơn- Tăng bậc điều trị- Tránh tối đa việc tiếp xúc dị nguyên    |
+| Tiếp xúc thuốc lá                              | - Khuyên BN và gia đình ngừng thuốc lá và tránh tiếp xúc thuốc lá- Tăng liều ICS nếu hen không kiểm soát |
+| FEV1 thấp < 50% dự đoán                        | - Giữ liều cao ICS 3 tháng và/hoặc OCS 2 tuần- Phải loại trừ bệnh phổi tắc nghẽn mạn tính                |
+| Béo phì                                        | - Khuyên bệnh nhân giảm cân                                                                              |
+| Rối loạn tâm thần                              | - Đánh giá tình trạng tâm thần- Phân biệt triệu chứng của hen và tình trạng hoảng loạn của BN            |
+| Dị ứng thức ăn                                 | - Tránh thức ăn gây dị ứng: đậu, hải sản- Epinephrine tiêm bắp                                           |
+| Dị nguyên khác                                 | - Tránh tiếp xúc tối đa                                                                                  |
+| Tăng eosinophil trong đàm                      | - Tăng liều ICS                                                                                          |
 # 7 Hướng xử trí dựa vào PEF
 - Xanh: 80-100% → sử dụng thuốc theo chỉ định
 - Vàng: 50-80% thận trọng, liên hệ BS tư vấn
