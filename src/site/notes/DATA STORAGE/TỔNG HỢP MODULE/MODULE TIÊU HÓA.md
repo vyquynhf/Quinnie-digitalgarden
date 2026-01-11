@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-storage/tong-hop-module/module-tieu-hoa/","noteIcon":"1","created":"2024-08-12T16:50:27.204+07:00","updated":"2026-01-06T18:14:33.412+07:00"}
+{"dg-publish":true,"permalink":"/data-storage/tong-hop-module/module-tieu-hoa/","noteIcon":"1","created":"2024-08-12T16:50:27.204+07:00","updated":"2026-01-07T10:44:16.976+07:00"}
 ---
 
 # Triệu chứng
@@ -8,8 +8,8 @@
 [[DATA STORAGE/TIẾP CẬN TRIỆU CHỨNG/Tiếp cận bệnh nhân vàng da\|Tiếp cận bệnh nhân vàng da]]
 [[Tiếp cận đau bụng cấp\|Tiếp cận đau bụng cấp]]
 # Bệnh lý
-[[DATA STORAGE/NỘI/6. TIÊU HÓA/XUẤT HUYẾT TIÊU HÓA\|XUẤT HUYẾT TIÊU HÓA]]
-[[DATA STORAGE/NỘI/5. TIẾT NIỆU/LAO Ổ BỤNG\|LAO Ổ BỤNG]]
+[[DATA STORAGE/NỘI/6. TIÊU HÓA/Xuất huyết tiêu hóa\|Xuất huyết tiêu hóa]]
+[[DATA STORAGE/NGOẠI/Viêm tụy cấp và mạn\|Viêm tụy cấp và mạn]]
 
 # Cận lâm sàng
 [[Cận lâm sàng trong chẩn đoán bệnh tiêu hóa - gan mật\|Cận lâm sàng trong chẩn đoán bệnh tiêu hóa - gan mật]]

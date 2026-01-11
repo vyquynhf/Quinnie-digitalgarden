@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/tiep-can-dau-bung-cap/","noteIcon":"1","created":"2026-01-06T18:13:45.738+07:00","updated":"2026-01-06T23:41:04.817+07:00"}
+{"dg-publish":true,"permalink":"/tiep-can-dau-bung-cap/","noteIcon":"1","created":"2026-01-06T18:13:45.738+07:00","updated":"2026-01-07T10:42:07.761+07:00"}
 ---
 
 📚 Tài liệu tham khảo
 - Sách Triệu chứng học PNT 2023
 - Sách Harrison's Princples 
+- Algorithms in Differential Diagnosis How to Approach Common Presenting Complaints
 # 1 Định nghĩa
-
 Đau bụng (abdominal pain) là cảm giác đau hay khó chịu ở vùng bụng phía dưới xương sườn và phía trên xương chậu. 
-Đau thường do cơ quan bị viêm, căng giãn, co thắt, thiếu máu cung cấp cho cơ quan đó. 
+Đau thường do cơ quan bị **viêm, căng giãn, co thắt, thiếu máu** cung cấp cho cơ quan đó. 
 # 2 Đặc điểm của đau
 ## 2.1 Đau tạng (visceral)
 ### 2.1.1 Đặc điểm 
 - Được dẫn truyền bởi các **sợi thần kinh tự chủ** → vị trí của đau tương ứng với **nguồn gốc phôi thai học** của tạng đó.
-- Cơn đau có tính chất **âm ỉ**, bỏng rát, đau quặn thắt và **ít định khu rõ ràng**, không liên quan tới đề kháng và gồng cứng thành bụng
-- **Sự di cư của các tạng:** Trong quá trình phát triển phôi thai, các cơ quan nội tạng thường hình thành ở một vị trí ban đầu (phân đoạn tủy sống tương ứng), sau đó mới di cư đến vị trí giải phẫu cuối cùng.
-- **Giữ nguyên phân đoạn thần kinh:** Dù di cư đi xa, các tạng này vẫn giữ nguyên sự chi phối thần kinh từ phân đoạn tủy sống ban đầu mà chúng sinh ra. Do đó, cảm giác đau sẽ được quy chiếu về **đoạn da (dermatome)** do chính phân đoạn tủy sống đó chi phối.
+- Cơn đau có tính chất **âm ỉ**, **ít định khu rõ ràng**, không liên quan tới đề kháng và gồng cứng thành bụng
+- Cơ chế
+	- Trong quá trình phát triển phôi thai, các cơ quan nội tạng thường hình thành ở một vị trí ban đầu (phân đoạn tủy sống tương ứng), sau đó mới di cư đến vị trí giải phẫu cuối cùng nhưng vẫn giữ nguyên sự chi phối thần kinh từ phân đoạn tủy sống ban đầu mà chúng sinh ra → cảm giác đau sẽ được quy chiếu về **đoạn da (dermatome)** do chính phân đoạn tủy sống đó chi phối.
 ### 2.1.2 Các ví dụ điển hình
 Dựa trên nguồn gốc phôi thai của ống tiêu hóa và các cơ quan liên quan, chúng ta có thể dự đoán vị trí đau
 ![Tiếp cận đau bụng cấp-1767701130752.jpeg](/img/user/image/Ti%E1%BA%BFp%20c%E1%BA%ADn%20%C4%91au%20b%E1%BB%A5ng%20c%E1%BA%A5p-1767701130752.jpeg)
@@ -40,11 +40,11 @@ Dựa trên nguồn gốc phôi thai của ống tiêu hóa và các cơ quan li
 ## 2.3 Đau quy chiếu (referred)
 - Là đau được cảm nhận ở vị trí xa nguồn cơn đau, do 2 nơi này được chi phối bởi cùng một khoanh thần kinh tủy
 - Đau quy chiếu từ **lồng ngực, cột sống hoặc cơ quan sinh dục** có thể gây nhầm lẫn chẩn đoán với bệnh bụng cấp.
-- 🔑 **Nguyên tắc quan trọng**: luôn phải nghĩ đến bệnh lý trong lồng ngực ở mọi bệnh nhân đau bụng, đặc biệt đau bụng trên.
+- 🔑 **Quan trọng**: luôn phải nghĩ đến bệnh lý trong lồng ngực ở mọi bệnh nhân đau bụng, đặc biệt đau bụng trên.
 - 🔍 **Khai thác và thăm khám có hệ thống** để tìm: Nhồi máu cơ tim, thuyên tắc phổi, viêm phổi, viêm màng ngoài tim, bệnh thực quản → là các bệnh lồng ngực hay giả dạng cấp cứu bụng
 
 **Dấu hiệu giúp phân biệt đau quy chiếu ngực với đau bụng thật:**
-- Hạn chế cử động **nửa lồng ngực** bên tổn thương, **giảm biên độ hô hấp** rõ.
+- Hạn chế cử động **nửa lồng ngực** bên tổn thương, **giảm biên độ hô hấp** rõ → đau quy chiếu từ ngực. 
 - “Co cứng” cơ bụng do đau quy chiếu **giảm khi hít vào**; nếu nguồn gốc bụng thì **tồn tại cả thì hít vào và thở ra**.
 - **Sờ nắn vùng bụng đau** thường **không làm đau tăng**, đôi khi còn **giảm đau**.
 - **Đau quy chiếu khác:**
@@ -175,7 +175,7 @@ Dựa trên nguồn gốc phôi thai của ống tiêu hóa và các cơ quan li
 -  **Viêm cơ thành bụng (myositis)**:
     - Thường có **tổn thương cơ đồng thời ở các vị trí khác**, giúp phân biệt với các nguyên nhân đau bụng khác.
 ## 6.5 Rối loạn chuyển hóa
-Đau bụng do rối loạn chuyển hóa có thể giả dạng hầu như mọi bệnh lý ổ bụng, rất dễ gây nhầm lẫn chẩn đoán.
+Đau bụng do rối loạn chuyển hóa có thể giả dạng hầu như mọi bệnh lý ổ bụng, rất dễ gây nhầm lẫn.
 Luôn phải nghĩ đến nguyên nhân chuyển hóa khi đau bụng không rõ nguyên nhân.
 - Một số rối loạn chuyển hóa có thể kèm bệnh lý ổ bụng thực sự (ví dụ tăng lipid máu → viêm tụy), nếu không nhận ra có thể dẫn đến phẫu thuật không cần thiết.
 - Thiếu hụt C1 esterase (phù mạch) thường gây các cơn đau bụng dữ dội tái diễn.

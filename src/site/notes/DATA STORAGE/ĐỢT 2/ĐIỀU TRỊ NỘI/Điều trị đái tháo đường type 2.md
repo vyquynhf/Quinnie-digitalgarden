@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-storage/dot-2/dieu-tri-noi/dieu-tri-dai-thao-duong-type-2/","noteIcon":"1","created":"2024-11-26T19:19:21.641+07:00","updated":"2025-12-28T15:31:57.166+07:00"}
+{"dg-publish":true,"permalink":"/data-storage/dot-2/dieu-tri-noi/dieu-tri-dai-thao-duong-type-2/","noteIcon":"1","created":"2024-11-26T19:19:21.641+07:00","updated":"2026-01-07T10:01:03.680+07:00"}
 ---
 
 > [!warning] Ê khoan hãy học
@@ -11,7 +11,7 @@
 
 **Một số bài chưa được sắp xếp**
 [[DATA STORAGE/NỘI/4. NỘI TIẾT/Hạ đường huyết\|Hạ đường huyết]]
-[[DATA STORAGE/NỘI/4. NỘI TIẾT/Nhiễm toan ketone và tăng áp lực thẩm thấu máu\|Nhiễm toan ketone và tăng áp lực thẩm thấu máu]]
+[[DATA STORAGE/NỘI/4. NỘI TIẾT/Nhiễm toan ketone (DKA) và tăng áp lực thẩm thấu máu (HHS)\|Nhiễm toan ketone (DKA) và tăng áp lực thẩm thấu máu (HHS)]]
 # 1 Đánh giá nguy cơ và biến chứng 
 ## 1.1 Tiền căn bệnh tim mạch do xơ vữa
 - Bệnh mạch vành (nhồi máu cơ tim, bệnh mạch vành mạn)  
@@ -115,6 +115,10 @@ Lưu ý chỗ ESKD albumin giảm là do xơ hóa cầu thận
 	- HbA1c < 7,0%  
 	- Đường huyết **mao mạch** trước ăn 80 – 130 mg/dl
 	- ĐHMM sau ăn (1-2 giờ sau ăn) < 180 mg/dl
+
+Vì sao giới hạn dưới là 80mg/dL còn tam chứng Whipple lại là 70mg/dL?
+- ĐH < 80mg/dL → cơ thể bắt đầu có cơ chế bù trừ: ức chế bài tiết insulin (đảm bảo đủ glucose cho não)
+- ĐH < 70mg/dL → kích thích điều hòa thần kinh nội tiết để tăng ĐH gồm 4 hormone (glucagon, catecholamine, cortisol, GH) trong đó catecholamine gây triệu chứng của hạ ĐH. Lúc này nếu không bổ sung đường thì cơ thể sẽ có triệu chứng tổn thương hệ TKTW (lơ mơ, hôn mê) → cần hướng dẫn BN nhận biết triệu chứng của hạ ĐH. 
 ## 2.2 Mục tiêu huyết áp
 ## 2.3 Mục tiêu lipid
 Tùy bệnh???
