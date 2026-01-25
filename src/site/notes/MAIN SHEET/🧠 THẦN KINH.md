@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/main-sheet/than-kinh/","noteIcon":"1","created":"2025-08-25T10:15:52.749+07:00","updated":"2025-09-19T08:39:14.754+07:00"}
+{"dg-publish":true,"permalink":"/main-sheet/than-kinh/","noteIcon":"1","created":"2025-08-25T10:15:52.749+07:00","updated":"2026-01-24T10:00:44.991+07:00"}
 ---
 
 # Cơ sở
-[[THẦN KINH/GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH\|GIẢI PHẪU LÂM SÀNG HỆ THẦN KINH]]
-[[THẦN KINH/CON ĐƯỜNG CẢM GIÁC ĐAU\|CON ĐƯỜNG CẢM GIÁC ĐAU]]
-[[THẦN KINH/HỆ THẦN KINH TỰ CHỦ\|HỆ THẦN KINH TỰ CHỦ]]
+[[THẦN KINH/Giải phẫu lâm sàng hệ thần kinh\|Giải phẫu lâm sàng hệ thần kinh]]
+[[THẦN KINH/Con đường cảm giác đau\|Con đường cảm giác đau]]
+[[THẦN KINH/Hệ thần kinh tự chủ\|Hệ thần kinh tự chủ]]
 # Kỹ năng
-[[THẦN KINH/KHÁM THẦN KINH\|KHÁM THẦN KINH]]
+[[THẦN KINH/Khám thần kinh\|Khám thần kinh]]
 # Bệnh học
 [[THẦN KINH/TIẾP CẬN ĐAU ĐẦU\|TIẾP CẬN ĐAU ĐẦU]]
 [[THẦN KINH/Tiếp cận động kinh\|Tiếp cận động kinh]]

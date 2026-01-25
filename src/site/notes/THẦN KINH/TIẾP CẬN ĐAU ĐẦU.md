@@ -71,7 +71,7 @@ SOCRATES-FAMOS
 ## 3.2 Khám lâm sàng
 - Sinh hiệu, khám vùng đầu, cổ
 - HEENT (đầu, tai, mắt, mũi, cổ): soi đáy mắt (phù gai, xuất huyết võng mạc), mắt đỏ, xơ cứng động mạch thái dương, nhạy đau vùng xoang, bệnh khớp thái dương hàm.
-- [[THẦN KINH/KHÁM THẦN KINH\|Khám thần kinh]] toàn diện: bệnh nhân mới hay khi tính chất đau đầu thay đổi
+- [[THẦN KINH/Khám thần kinh\|Khám thần kinh]] toàn diện: bệnh nhân mới hay khi tính chất đau đầu thay đổi
 - Chú ý các dấu hiệu: sốt, **dấu màng não** *(phải khám cho all BN đau đầu)*, âm thổi vùng đầu cổ, soi đáy mắt, đánh giá đồng tử, thị trường, các đôi dây thần kinh sọ và dấu thần kinh khu trú
 - **Note:** soi đáy mắt thấy phù gai thị nghĩ đến 2 nguyên nhân  
 	- Tổn thương dây II (viêm dây TK II)  
